@@ -1,0 +1,1490 @@
+2021-04-07 00:00:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:00:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:00:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:03:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:03:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:03:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:06:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:06:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:06:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:09:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:09:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:09:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:12:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:12:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:12:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:15:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:15:00.019 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:15:00.021 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:18:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:18:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:18:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:21:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:21:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:21:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:24:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:24:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:24:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:27:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:27:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:27:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:30:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:30:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:30:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 00:33:00.019 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 00:33:00.020 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 00:33:00.022 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 14:03:44.728 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==>  Preparing: SELECT id,job_name,job_class,cron_expression,status FROM sys_quartz
+2021-04-07 14:03:44.806 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==> Parameters: 
+2021-04-07 14:03:44.853 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - <==      Total: 1
+2021-04-07 14:06:00.353 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 14:06:00.353 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 14:06:00.353 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 14:06:44.402 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 14:06:44.404 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 14:06:44.419 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 14:06:44.420 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - ==>  Preparing: select id, role_name, remark, create_time from sys_role r where id in (select role_id from sys_user_role where user_id = ? )
+2021-04-07 14:06:44.421 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - ==> Parameters: 3(Long)
+2021-04-07 14:06:44.427 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - <==      Total: 1
+2021-04-07 14:06:45.456 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 14:06:45.457 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 14:06:45.458 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 14:06:45.467 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 14:06:45.468 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 14:06:45.471 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 14:06:45.476 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 14:06:45.476 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 14:06:45.483 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 14:06:45.485 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 14:06:45.485 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 14:06:45.489 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 14:06:45.490 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:06:45.491 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 14:06:45.494 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:06:45.495 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:06:45.497 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 14:06:45.499 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:06:45.500 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:06:45.501 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 14:06:45.502 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:06:45.503 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:06:45.503 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 14:06:45.504 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:06:45.505 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:06:45.505 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 14:06:45.506 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:06:45.506 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:06:45.507 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 14:06:45.508 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:06:45.508 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:06:45.509 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 14:06:45.510 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:06:49.089 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 14:06:49.090 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 14:06:49.106 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 14:06:49.111 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 14:06:49.112 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 14:06:49.114 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 1
+2021-04-07 14:06:49.120 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 14:06:49.120 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 14:06:49.122 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 14:07:22.186 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 14:07:22.187 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 14:07:22.189 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 14:07:22.191 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 14:07:22.191 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 14:07:22.192 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 14:07:22.194 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 14:07:22.195 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 14:07:22.197 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 14:07:22.198 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 14:07:22.200 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 14:07:22.204 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 14:07:22.205 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:07:22.207 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 14:07:22.209 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:07:22.210 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:07:22.211 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 14:07:22.213 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:07:22.214 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:07:22.216 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 14:07:22.217 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:07:22.218 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:07:22.219 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 14:07:22.220 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:07:22.222 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:07:22.222 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 14:07:22.223 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:07:22.224 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:07:22.225 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 14:07:22.225 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:07:22.227 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:07:22.227 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 14:07:22.228 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:09:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 14:09:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 14:09:00.020 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 14:12:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 14:12:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 14:12:00.020 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 14:15:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 14:15:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 14:15:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 14:15:59.296 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==>  Preparing: SELECT id,job_name,job_class,cron_expression,status FROM sys_quartz
+2021-04-07 14:15:59.313 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==> Parameters: 
+2021-04-07 14:15:59.329 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - <==      Total: 1
+2021-04-07 14:18:00.039 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 14:18:00.039 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 14:18:00.042 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 14:18:02.616 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 14:18:02.617 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 14:18:02.622 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 14:18:02.625 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - ==>  Preparing: select id, role_name, remark, create_time from sys_role r where id in (select role_id from sys_user_role where user_id = ? )
+2021-04-07 14:18:02.626 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - ==> Parameters: 3(Long)
+2021-04-07 14:18:02.627 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - <==      Total: 1
+2021-04-07 14:18:03.380 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 14:18:03.381 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 14:18:03.382 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 14:18:03.393 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 14:18:03.393 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 14:18:03.394 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 14:18:03.399 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 14:18:03.400 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 14:18:03.401 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 14:18:03.403 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 14:18:03.403 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 14:18:03.406 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 14:18:03.407 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:18:03.408 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 14:18:03.410 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:18:03.411 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:18:03.412 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 14:18:03.413 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:18:03.414 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:18:03.414 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 14:18:03.415 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:18:03.416 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:18:03.416 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 14:18:03.417 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:18:03.418 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:18:03.418 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 14:18:03.419 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:18:03.420 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:18:03.421 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 14:18:03.422 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:18:03.423 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:18:03.424 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 14:18:03.425 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:18:09.571 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_volunteer_info vol
+2021-04-07 14:18:09.572 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage_mpCount - ==> Parameters: 
+2021-04-07 14:18:09.577 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage_mpCount - <==      Total: 1
+2021-04-07 14:18:09.583 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage - ==>  Preparing: select * from tb_volunteer_info vol LIMIT ?
+2021-04-07 14:18:09.584 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage - ==> Parameters: 5(Long)
+2021-04-07 14:18:09.586 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage - <==      Total: 4
+2021-04-07 14:18:10.349 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 14:18:10.349 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 14:18:10.352 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 14:18:10.353 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 14:18:10.353 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 14:18:10.354 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 1
+2021-04-07 14:18:10.357 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 14:18:10.358 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 14:18:10.360 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 14:19:27.797 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 14:19:27.797 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 14:19:27.800 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 14:19:27.802 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 14:19:27.802 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 14:19:27.804 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 14:19:27.806 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 14:19:27.808 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 14:19:27.810 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 14:19:27.812 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 14:19:27.813 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 14:19:27.817 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 14:19:27.818 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:27.819 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 14:19:27.820 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:19:27.821 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:27.821 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 14:19:27.823 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:19:27.824 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:27.824 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 14:19:27.826 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:19:27.827 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:27.827 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 14:19:27.828 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:19:27.829 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:27.829 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 14:19:27.830 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:19:27.831 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:27.831 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 14:19:27.832 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:19:27.833 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:27.834 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 14:19:27.836 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:19:36.840 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 14:19:36.841 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 14:19:36.843 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 14:19:36.845 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 14:19:36.846 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 14:19:36.848 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 14:19:36.850 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 14:19:36.852 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 14:19:36.855 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 14:19:36.856 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 14:19:36.857 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 14:19:36.859 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 14:19:36.861 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:36.862 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 14:19:36.864 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:19:36.865 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:36.866 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 14:19:36.868 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:19:36.868 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:36.869 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 14:19:36.870 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:19:36.871 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:36.871 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 14:19:36.873 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:19:36.873 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:36.874 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 14:19:36.875 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:19:36.877 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:36.878 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 14:19:36.880 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:19:36.882 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:19:36.882 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 14:19:36.884 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:20:20.504 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 14:20:20.505 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 小明的儿子(String), 17867965173(String)
+2021-04-07 14:21:00.003 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 14:21:00.003 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 14:21:00.005 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 1
+2021-04-07 14:22:43.184 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==>  Preparing: SELECT id,job_name,job_class,cron_expression,status FROM sys_quartz
+2021-04-07 14:22:43.202 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==> Parameters: 
+2021-04-07 14:22:43.218 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - <==      Total: 1
+2021-04-07 14:22:48.007 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 14:22:48.008 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 小明的儿子(String), 17867965173(String)
+2021-04-07 14:22:48.010 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 14:22:48.711 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 14:22:48.713 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 小明(String), 0(Integer), (String), 没什么特别的(String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 14:20:11.0(Timestamp), 11(Long)
+2021-04-07 14:22:48.717 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 14:22:48.722 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 14:22:48.723 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 14:22:48.724 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 14:22:48.729 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 14:22:48.730 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 109(Long), 2021-04-07 14:20:11.0(Timestamp)
+2021-04-07 14:22:48.732 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 14:24:00.030 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 14:24:00.030 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 14:24:00.033 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 2
+2021-04-07 14:24:00.035 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 14:24:00.041 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 109(Long), 2021-04-07 14:20:11.0(Timestamp), 95(Long)
+2021-04-07 14:24:00.053 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 14:27:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 14:27:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 14:27:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 2
+2021-04-07 14:27:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 14:27:00.016 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 109(Long), 2021-04-07 14:20:11.0(Timestamp), 95(Long)
+2021-04-07 14:27:00.020 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 14:28:20.151 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 14:28:20.152 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 14:28:20.154 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 14:28:20.164 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 14:28:20.165 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 14:28:20.167 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 14:28:20.174 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 14:28:20.174 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 14:28:20.176 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 14:28:20.178 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 14:28:20.178 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 14:28:20.181 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 14:28:20.182 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:28:20.183 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 14:28:20.185 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:28:20.186 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:28:20.187 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 14:28:20.188 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 14:28:20.189 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:28:20.190 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 14:28:20.192 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:28:20.193 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:28:20.194 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 14:28:20.197 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:28:20.198 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:28:20.199 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 14:28:20.200 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:28:20.202 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:28:20.203 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 14:28:20.204 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:28:20.205 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 14:28:20.206 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 14:28:20.207 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 14:29:48.173 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 14:29:48.174 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 小红(String), 17867965173(String)
+2021-04-07 14:29:48.175 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 14:29:48.238 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_age, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 14:29:48.241 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 小红的父亲(String), 0(Integer), 61(Integer), 3310212000846513(String), hhhh(String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 14:28:27.0(Timestamp), 12(Long)
+2021-04-07 14:29:48.245 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 14:29:48.251 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 14:29:48.253 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 14:29:48.257 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 14:29:48.259 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 14:29:48.259 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 110(Long), 2021-04-07 14:28:27.0(Timestamp)
+2021-04-07 14:29:48.261 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 14:30:00.003 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 14:30:00.004 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 14:30:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 3
+2021-04-07 14:30:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 14:30:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 110(Long), 2021-04-07 14:28:27.0(Timestamp), 96(Long)
+2021-04-07 14:30:00.017 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:01:50.421 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==>  Preparing: SELECT id,job_name,job_class,cron_expression,status FROM sys_quartz
+2021-04-07 15:01:50.438 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==> Parameters: 
+2021-04-07 15:01:50.463 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - <==      Total: 1
+2021-04-07 15:02:00.630 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 15:02:00.632 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 15:02:00.635 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 15:02:00.643 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 15:02:00.644 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 15:02:00.646 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 15:02:00.652 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 15:02:00.652 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 15:02:00.654 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 15:02:00.656 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 15:02:00.658 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 15:02:00.662 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 15:02:00.664 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:02:00.664 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 15:02:00.666 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:02:00.666 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:02:00.667 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 15:02:00.668 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:02:00.669 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:02:00.669 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 15:02:00.670 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:02:00.671 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:02:00.671 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 15:02:00.672 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:02:00.674 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:02:00.675 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 15:02:00.676 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:02:00.677 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:02:00.678 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 15:02:00.679 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:02:00.680 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:02:00.681 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 15:02:00.682 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:02:51.526 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 15:02:51.528 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 小军(String), 17897455764(String)
+2021-04-07 15:02:51.531 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 15:02:51.960 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_age, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 15:02:51.963 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 小军的父亲(String), 0(Integer), 62(Integer), 33102120000815468(String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 15:02:10.0(Timestamp), 13(Long)
+2021-04-07 15:02:51.974 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 15:02:51.980 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 15:02:51.981 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 15:02:51.982 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 15:02:51.989 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 15:02:51.992 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 111(Long), 2021-04-07 15:02:10.0(Timestamp)
+2021-04-07 15:02:51.995 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 15:03:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:03:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:03:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 4
+2021-04-07 15:03:00.016 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:03:00.017 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 110(Long), 2021-04-07 14:28:27.0(Timestamp), 96(Long)
+2021-04-07 15:03:00.030 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:06:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:06:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:06:00.036 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 4
+2021-04-07 15:06:00.039 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:06:00.040 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 111(Long), 2021-04-07 15:02:10.0(Timestamp), 97(Long)
+2021-04-07 15:06:00.044 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:06:14.012 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 15:06:14.014 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 15:06:14.019 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 15:06:14.022 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 15:06:14.023 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 15:06:14.025 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 15:06:14.028 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 15:06:14.029 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 15:06:14.031 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 15:06:14.032 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 15:06:14.034 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 15:06:14.038 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 15:06:14.040 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:06:14.040 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 15:06:14.042 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:06:14.043 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:06:14.043 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 15:06:14.045 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:06:14.046 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:06:14.047 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 15:06:14.048 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:06:14.050 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:06:14.051 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 15:06:14.053 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:06:14.054 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:06:14.055 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 15:06:14.056 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:06:14.057 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:06:14.058 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 15:06:14.059 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:06:14.060 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:06:14.060 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 15:06:14.061 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:06:43.445 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 15:06:43.446 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: hhh(String), 13967678573(String)
+2021-04-07 15:06:43.448 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 15:06:43.499 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 15:06:43.500 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 小虫(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 15:06:29.0(Timestamp), 14(Long)
+2021-04-07 15:06:43.503 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 15:06:43.504 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 15:06:43.505 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 15:06:43.507 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 15:06:43.508 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 15:06:43.509 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 112(Long), 2021-04-07 15:06:29.0(Timestamp)
+2021-04-07 15:06:43.510 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 15:06:47.376 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 15:06:47.377 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 112(Long)
+2021-04-07 15:06:47.379 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 15:08:47.018 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 15:08:47.019 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 15:08:47.023 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 15:08:47.024 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 15:08:47.025 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 15:08:47.027 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 15:08:47.029 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 15:08:47.030 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 15:08:47.034 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 15:08:47.035 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 15:08:47.036 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 15:08:47.039 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 15:08:47.040 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:08:47.041 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 15:08:47.042 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:08:47.043 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:08:47.043 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 15:08:47.044 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:08:47.045 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:08:47.045 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 15:08:47.046 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:08:47.047 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:08:47.047 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 15:08:47.048 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:08:47.049 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:08:47.050 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 15:08:47.051 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:08:47.053 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:08:47.053 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 15:08:47.055 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:08:47.056 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:08:47.057 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 15:08:47.058 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:09:00.002 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:09:00.003 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:09:00.006 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 5
+2021-04-07 15:09:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:09:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 111(Long), 2021-04-07 15:02:10.0(Timestamp), 97(Long)
+2021-04-07 15:09:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:09:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:09:00.016 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 112(Long), 2021-04-07 15:06:29.0(Timestamp), 98(Long)
+2021-04-07 15:09:00.019 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:09:34.887 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 15:09:34.887 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: dada(String), 13967678537(String)
+2021-04-07 15:09:34.889 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 15:09:34.945 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 15:09:34.946 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 小爷(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 15:09:22.0(Timestamp), 15(Long)
+2021-04-07 15:09:34.947 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 15:09:34.949 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 15:09:34.950 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 15:09:34.951 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 15:09:34.953 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 15:09:34.954 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 113(Long), 2021-04-07 15:09:22.0(Timestamp)
+2021-04-07 15:09:34.955 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 15:09:54.487 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 15:09:54.488 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 113(Long)
+2021-04-07 15:09:54.490 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 15:12:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:12:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:12:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 6
+2021-04-07 15:12:00.017 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:12:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 112(Long), 2021-04-07 15:06:29.0(Timestamp), 98(Long)
+2021-04-07 15:12:00.030 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:12:00.032 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:12:00.033 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 113(Long), 2021-04-07 15:09:22.0(Timestamp), 99(Long)
+2021-04-07 15:12:00.037 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:15:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:15:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:15:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 6
+2021-04-07 15:15:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:15:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 113(Long), 2021-04-07 15:09:22.0(Timestamp), 99(Long)
+2021-04-07 15:15:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:18:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:18:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:18:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 6
+2021-04-07 15:19:45.363 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 15:19:45.364 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 15:19:45.368 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 15:19:45.370 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 15:19:45.371 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 15:19:45.374 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 15:19:45.376 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 15:19:45.377 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 15:19:45.378 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 15:19:45.380 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 15:19:45.382 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 15:19:45.386 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 15:19:45.387 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:19:45.388 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 15:19:45.390 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:19:45.391 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:19:45.392 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 15:19:45.394 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:19:45.395 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:19:45.396 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 15:19:45.398 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:19:45.400 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:19:45.400 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 15:19:45.402 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:19:45.402 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:19:45.403 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 15:19:45.404 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:19:45.405 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:19:45.406 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 15:19:45.407 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:19:45.409 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:19:45.410 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 15:19:45.411 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:20:09.121 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 15:20:09.122 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 呵呵(String), 13967678537(String)
+2021-04-07 15:20:09.124 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 15:20:09.174 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 15:20:09.175 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 呵呵的父亲(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 15:19:57.0(Timestamp), 16(Long)
+2021-04-07 15:20:09.176 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 15:20:09.177 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 15:20:09.178 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 15:20:09.178 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 15:20:09.179 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 15:20:09.180 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 114(Long), 2021-04-07 15:19:57.0(Timestamp)
+2021-04-07 15:20:09.181 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 15:20:17.473 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 15:20:17.474 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 114(Long)
+2021-04-07 15:20:17.475 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 15:21:00.001 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:21:00.002 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:21:00.004 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 7
+2021-04-07 15:21:00.006 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:21:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 114(Long), 2021-04-07 15:19:57.0(Timestamp), 100(Long)
+2021-04-07 15:21:00.021 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:24:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:24:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:24:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 7
+2021-04-07 15:24:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:24:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 114(Long), 2021-04-07 15:19:57.0(Timestamp), 100(Long)
+2021-04-07 15:24:00.022 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:27:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:27:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:27:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 7
+2021-04-07 15:30:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:30:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:30:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 7
+2021-04-07 15:30:49.333 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 15:30:49.334 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 15:30:49.336 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 15:30:49.337 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 15:30:49.339 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 15:30:49.342 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 15:30:49.344 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 15:30:49.345 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 15:30:49.347 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 15:30:49.348 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 15:30:49.349 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 15:30:49.351 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 15:30:49.352 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:30:49.353 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 15:30:49.354 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:30:49.355 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:30:49.356 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 15:30:49.358 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 15:30:49.359 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:30:49.360 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 15:30:49.361 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:30:49.362 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:30:49.362 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 15:30:49.363 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:30:49.364 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:30:49.365 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 15:30:49.366 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:30:49.367 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:30:49.368 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 15:30:49.369 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:30:49.370 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 15:30:49.370 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 15:30:49.371 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 15:31:10.846 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 15:31:10.847 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 小李(String), 13967678537(String)
+2021-04-07 15:31:10.848 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 15:31:10.893 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 15:31:10.894 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 小李的父亲(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 15:30:58.0(Timestamp), 17(Long)
+2021-04-07 15:31:10.895 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 15:31:10.896 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 15:31:10.896 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 15:31:10.897 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 15:31:10.898 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 15:31:10.899 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 115(Long), 2021-04-07 15:30:58.0(Timestamp)
+2021-04-07 15:31:10.899 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 15:31:13.681 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 15:31:13.682 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 115(Long)
+2021-04-07 15:31:13.683 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 15:32:23.124 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 15:32:23.124 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 115(Long)
+2021-04-07 15:32:23.126 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 15:32:40.432 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 15:32:40.433 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 115(Long)
+2021-04-07 15:32:40.434 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 15:33:00.002 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:33:00.003 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:33:00.005 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 15:33:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:33:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 115(Long), 2021-04-07 15:30:58.0(Timestamp), 101(Long)
+2021-04-07 15:33:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:36:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:36:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:36:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 15:36:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 15:36:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 115(Long), 2021-04-07 15:30:58.0(Timestamp), 101(Long)
+2021-04-07 15:36:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 15:39:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:39:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:39:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 15:42:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:42:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:42:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 15:45:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:45:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:45:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 15:48:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:48:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:48:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 15:51:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:51:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:51:00.017 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 15:54:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:54:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:54:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 15:57:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 15:57:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 15:57:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 16:00:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:00:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:00:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 16:03:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:03:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:03:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 16:06:00.021 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:06:00.022 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:06:00.028 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 8
+2021-04-07 16:07:01.181 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 16:07:01.183 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 16:07:01.186 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 16:07:01.188 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 16:07:01.189 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 16:07:01.192 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 16:07:01.195 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 16:07:01.201 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 16:07:01.203 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 16:07:01.204 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 16:07:01.206 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 16:07:01.208 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 16:07:01.209 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:07:01.210 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 16:07:01.211 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:07:01.212 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:07:01.213 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 16:07:01.214 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:07:01.215 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:07:01.216 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 16:07:01.217 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:07:01.219 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:07:01.219 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 16:07:01.221 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:07:01.223 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:07:01.224 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 16:07:01.225 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:07:01.227 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:07:01.227 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 16:07:01.229 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:07:01.231 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:07:01.231 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 16:07:01.232 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:07:21.005 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 16:07:21.007 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 小李子儿子(String), 13967678537(String)
+2021-04-07 16:07:21.010 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 16:07:21.063 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 16:07:21.064 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 小李子(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 16:07:07.0(Timestamp), 18(Long)
+2021-04-07 16:07:21.066 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 16:07:21.068 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 16:07:21.068 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 16:07:21.069 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 16:07:21.070 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 16:07:21.071 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 116(Long), 2021-04-07 16:07:07.0(Timestamp)
+2021-04-07 16:07:21.073 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 16:07:23.786 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 16:07:23.786 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 116(Long)
+2021-04-07 16:07:23.787 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 16:09:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:09:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:09:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 9
+2021-04-07 16:09:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:09:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 116(Long), 2021-04-07 16:07:07.0(Timestamp), 102(Long)
+2021-04-07 16:09:00.024 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:12:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:12:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:12:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 9
+2021-04-07 16:12:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:12:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 116(Long), 2021-04-07 16:07:07.0(Timestamp), 102(Long)
+2021-04-07 16:12:00.023 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:12:26.217 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 16:12:26.218 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 16:12:26.220 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 16:12:26.222 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 16:12:26.223 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 16:12:26.224 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 16:12:26.228 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 16:12:26.229 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 16:12:26.230 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 16:12:26.232 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 16:12:26.232 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 16:12:26.234 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 16:12:26.236 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:12:26.237 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 16:12:26.239 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:12:26.241 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:12:26.242 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 16:12:26.244 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:12:26.245 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:12:26.246 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 16:12:26.247 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:12:26.248 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:12:26.249 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 16:12:26.251 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:12:26.253 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:12:26.254 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 16:12:26.256 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:12:26.258 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:12:26.259 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 16:12:26.261 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:12:26.262 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:12:26.263 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 16:12:26.264 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:12:54.389 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 16:12:54.390 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 小蓝(String), 13967678537(String)
+2021-04-07 16:12:54.391 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 16:12:54.436 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 16:12:54.437 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 小蓝(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 16:12:43.0(Timestamp), 19(Long)
+2021-04-07 16:12:54.439 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 16:12:54.440 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 16:12:54.440 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 16:12:54.441 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 16:12:54.442 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 16:12:54.442 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 117(Long), 2021-04-07 16:12:43.0(Timestamp)
+2021-04-07 16:12:54.443 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 16:12:57.301 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 16:12:57.301 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 117(Long)
+2021-04-07 16:12:57.303 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 16:15:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:15:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:15:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 10
+2021-04-07 16:15:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:15:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 117(Long), 2021-04-07 16:12:43.0(Timestamp), 103(Long)
+2021-04-07 16:15:00.028 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:16:20.637 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 16:16:20.638 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 16:16:20.640 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 16:16:20.642 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 16:16:20.643 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 16:16:20.645 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 16:16:20.649 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 16:16:20.650 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 16:16:20.651 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 16:16:20.653 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 16:16:20.653 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 16:16:20.655 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 16:16:20.656 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:16:20.657 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 16:16:20.658 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:16:20.659 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:16:20.661 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 16:16:20.662 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:16:20.663 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:16:20.664 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 16:16:20.665 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:16:20.666 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:16:20.667 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 16:16:20.668 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:16:20.669 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:16:20.669 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 16:16:20.670 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:16:20.671 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:16:20.672 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 16:16:20.673 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:16:20.674 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:16:20.675 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 16:16:20.676 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:16:36.761 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 16:16:36.763 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: lxw(String), 13967678537(String)
+2021-04-07 16:16:36.765 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 16:16:36.826 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 16:16:36.829 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: lxw(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 16:16:26.0(Timestamp), 20(Long)
+2021-04-07 16:16:36.833 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 16:16:36.837 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 16:16:36.838 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 16:16:36.841 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 16:16:36.843 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 16:16:36.844 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 118(Long), 2021-04-07 16:16:26.0(Timestamp)
+2021-04-07 16:16:36.846 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 16:16:39.296 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 16:16:39.297 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 118(Long)
+2021-04-07 16:16:39.298 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 16:18:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:18:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:18:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 11
+2021-04-07 16:18:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:18:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 117(Long), 2021-04-07 16:12:43.0(Timestamp), 103(Long)
+2021-04-07 16:18:00.024 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:18:00.025 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:18:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 118(Long), 2021-04-07 16:16:26.0(Timestamp), 104(Long)
+2021-04-07 16:18:00.029 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:21:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:21:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:21:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 11
+2021-04-07 16:21:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:21:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 118(Long), 2021-04-07 16:16:26.0(Timestamp), 104(Long)
+2021-04-07 16:21:00.021 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:24:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:24:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:24:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 11
+2021-04-07 16:27:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:27:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:27:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 11
+2021-04-07 16:30:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:30:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:30:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 11
+2021-04-07 16:33:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:33:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:33:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 11
+2021-04-07 16:36:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:36:00.016 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:36:00.019 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 11
+2021-04-07 16:36:09.928 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 16:36:09.929 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 16:36:09.930 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 16:36:09.931 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 16:36:09.932 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 16:36:09.933 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 16:36:09.935 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 16:36:09.936 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 16:36:09.937 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 16:36:09.939 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 16:36:09.940 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 16:36:09.942 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 16:36:09.943 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:36:09.944 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 16:36:09.945 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:36:09.946 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:36:09.947 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 16:36:09.948 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:36:09.948 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:36:09.949 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 16:36:09.950 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:36:09.951 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:36:09.952 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 16:36:09.953 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:36:09.954 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:36:09.954 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 16:36:09.955 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:36:09.956 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:36:09.957 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 16:36:09.958 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:36:09.959 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:36:09.959 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 16:36:09.960 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:36:25.978 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 16:36:25.979 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: lxw(String), 13967678537(String)
+2021-04-07 16:36:25.980 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 16:36:26.042 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 16:36:26.043 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 哈哈哈哈(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 16:36:14.0(Timestamp), 21(Long)
+2021-04-07 16:36:26.044 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 16:36:26.046 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 16:36:26.046 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 16:36:26.047 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 16:36:26.048 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 16:36:26.049 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 119(Long), 2021-04-07 16:36:14.0(Timestamp)
+2021-04-07 16:36:26.050 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 16:36:28.891 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 16:36:28.892 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 119(Long)
+2021-04-07 16:36:28.894 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 16:39:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:39:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:39:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 12
+2021-04-07 16:39:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:39:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 119(Long), 2021-04-07 16:36:14.0(Timestamp), 105(Long)
+2021-04-07 16:39:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:41:35.063 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 16:41:35.064 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 16:41:35.067 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 16:41:35.069 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 16:41:35.070 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 16:41:35.071 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 16:41:35.074 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 16:41:35.074 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 16:41:35.075 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 16:41:35.077 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 16:41:35.078 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 16:41:35.079 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 16:41:35.080 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:41:35.080 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 16:41:35.081 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:41:35.082 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:41:35.082 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 16:41:35.083 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:41:35.084 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:41:35.085 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 16:41:35.087 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:41:35.088 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:41:35.088 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 16:41:35.089 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:41:35.090 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:41:35.091 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 16:41:35.092 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:41:35.092 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:41:35.093 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 16:41:35.094 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:41:35.095 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:41:35.096 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 16:41:35.097 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:41:55.350 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 16:41:55.351 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 娃哈哈(String), 13967678537(String)
+2021-04-07 16:41:55.353 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 16:41:55.403 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 16:41:55.404 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 娃哈哈的父亲(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 16:41:39.0(Timestamp), 22(Long)
+2021-04-07 16:41:55.406 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 16:41:55.408 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 16:41:55.408 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 16:41:55.410 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 16:41:55.411 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 16:41:55.412 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 120(Long), 2021-04-07 16:41:39.0(Timestamp)
+2021-04-07 16:41:55.413 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 16:41:58.057 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 16:41:58.058 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 120(Long)
+2021-04-07 16:41:58.059 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 16:42:00.001 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:42:00.002 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:42:00.004 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 13
+2021-04-07 16:42:00.005 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:42:00.006 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 119(Long), 2021-04-07 16:36:14.0(Timestamp), 105(Long)
+2021-04-07 16:42:00.020 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:42:31.124 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 16:42:31.125 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 16:42:31.126 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 16:42:31.128 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 16:42:31.129 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 16:42:31.130 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 16:42:31.133 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 16:42:31.134 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 16:42:31.135 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 16:42:31.136 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 16:42:31.138 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 16:42:31.139 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 16:42:31.140 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:42:31.141 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 16:42:31.143 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:42:31.144 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:42:31.145 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 16:42:31.147 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 16:42:31.148 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:42:31.149 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 16:42:31.151 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:42:31.152 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:42:31.153 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 16:42:31.155 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:42:31.156 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:42:31.157 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 16:42:31.159 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:42:31.160 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:42:31.161 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 16:42:31.162 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:42:31.163 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 16:42:31.164 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 16:42:31.166 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 16:42:45.118 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 16:42:45.118 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: 测试(String), 13967678537(String)
+2021-04-07 16:42:45.119 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 16:42:45.175 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 16:42:45.176 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: 哇哈哈哈(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 16:42:36.0(Timestamp), 23(Long)
+2021-04-07 16:42:45.177 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 16:42:45.178 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 16:42:45.178 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 16:42:45.179 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 16:42:45.180 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 16:42:45.181 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 121(Long), 2021-04-07 16:42:36.0(Timestamp)
+2021-04-07 16:42:45.182 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 16:43:21.875 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 16:43:21.876 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 121(Long)
+2021-04-07 16:43:21.878 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 16:43:22.849 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 16:43:22.849 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 121(Long)
+2021-04-07 16:43:22.850 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 0
+2021-04-07 16:43:24.260 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_img ( pic_url, lostman_id ) VALUES ( ?, ? )
+2021-04-07 16:43:24.260 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.insert - ==> Parameters: http://return-home.oss-cn-hangzhou.aliyuncs.com/lostman/121/10d3bb81336044afa220d9e54e9ec32d.jpg(String), 121(Long)
+2021-04-07 16:43:24.261 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.insert - <==    Updates: 1
+2021-04-07 16:43:30.869 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 16:43:30.870 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 121(Long)
+2021-04-07 16:43:30.871 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 16:43:31.748 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 16:43:31.748 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 121(Long)
+2021-04-07 16:43:31.752 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 1
+2021-04-07 16:43:46.285 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 16:43:46.286 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 121(Long)
+2021-04-07 16:43:46.286 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 16:43:47.250 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 16:43:47.251 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 121(Long)
+2021-04-07 16:43:47.252 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 1
+2021-04-07 16:43:48.402 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_img ( pic_url, lostman_id ) VALUES ( ?, ? )
+2021-04-07 16:43:48.403 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.insert - ==> Parameters: http://return-home.oss-cn-hangzhou.aliyuncs.com/lostman/121/f06f8bb5337445258c097c9c0b8e2100.jpg(String), 121(Long)
+2021-04-07 16:43:48.404 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.insert - <==    Updates: 1
+2021-04-07 16:44:03.947 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 16:44:03.948 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 121(Long)
+2021-04-07 16:44:03.950 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 16:45:00.002 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:45:00.002 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:45:00.005 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 14
+2021-04-07 16:45:00.006 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:45:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 120(Long), 2021-04-07 16:41:39.0(Timestamp), 106(Long)
+2021-04-07 16:45:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:45:00.014 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:45:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 121(Long), 2021-04-07 16:42:36.0(Timestamp), 107(Long)
+2021-04-07 16:45:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:48:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:48:00.008 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:48:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 14
+2021-04-07 16:48:00.010 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:48:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 120(Long), 2021-04-07 16:41:39.0(Timestamp), 106(Long)
+2021-04-07 16:48:00.022 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:48:00.022 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 16:48:00.023 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 121(Long), 2021-04-07 16:42:36.0(Timestamp), 107(Long)
+2021-04-07 16:48:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 16:51:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:51:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:51:00.009 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 14
+2021-04-07 16:54:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:54:00.019 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:54:00.021 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 14
+2021-04-07 16:57:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 16:57:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 16:57:00.013 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 14
+2021-04-07 21:25:51.475 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==>  Preparing: SELECT id,job_name,job_class,cron_expression,status FROM sys_quartz
+2021-04-07 21:25:51.582 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==> Parameters: 
+2021-04-07 21:25:51.626 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - <==      Total: 1
+2021-04-07 21:26:07.384 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 21:26:07.384 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 21:26:07.386 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 21:26:07.389 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - ==>  Preparing: select id, role_name, remark, create_time from sys_role r where id in (select role_id from sys_user_role where user_id = ? )
+2021-04-07 21:26:07.389 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - ==> Parameters: 3(Long)
+2021-04-07 21:26:07.395 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - <==      Total: 1
+2021-04-07 21:26:08.382 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 21:26:08.383 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 21:26:08.384 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 21:26:08.393 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 21:26:08.394 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 21:26:08.395 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 21:26:08.402 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 21:26:08.402 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 21:26:08.405 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 21:26:08.408 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 21:26:08.408 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 21:26:08.410 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 21:26:08.412 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:26:08.412 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 21:26:08.413 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 21:26:08.414 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:26:08.414 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 21:26:08.416 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 21:26:08.417 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:26:08.417 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 21:26:08.418 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:26:08.419 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:26:08.420 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 21:26:08.421 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:26:08.423 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:26:08.424 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 21:26:08.424 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:26:08.425 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:26:08.426 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 21:26:08.427 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:26:08.428 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:26:08.428 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 21:26:08.430 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:26:11.291 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 21:26:11.292 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 21:26:11.297 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 21:26:11.302 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 21:26:11.304 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 21:26:11.308 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 21:26:11.314 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:26:11.315 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 21:26:11.316 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:26:11.317 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:26:11.318 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 21:26:11.319 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:26:11.323 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 21:26:11.324 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 11(Long)
+2021-04-07 21:26:11.325 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 21:26:11.330 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 21:26:11.331 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 109(Long)
+2021-04-07 21:26:11.332 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 0
+2021-04-07 21:26:18.051 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_volunteer_info vol
+2021-04-07 21:26:18.052 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage_mpCount - ==> Parameters: 
+2021-04-07 21:26:18.057 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage_mpCount - <==      Total: 1
+2021-04-07 21:26:18.058 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage - ==>  Preparing: select * from tb_volunteer_info vol LIMIT ?
+2021-04-07 21:26:18.059 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage - ==> Parameters: 5(Long)
+2021-04-07 21:26:18.062 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage - <==      Total: 4
+2021-04-07 21:26:50.786 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 21:26:50.787 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 21:26:50.790 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 21:26:50.792 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 21:26:50.793 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 21:26:50.796 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 21:26:50.799 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:26:50.800 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 21:26:50.802 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:26:50.805 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:26:50.806 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 21:26:50.809 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:26:50.811 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 21:26:50.812 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 11(Long)
+2021-04-07 21:26:50.814 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 21:26:50.816 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 21:26:50.817 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 109(Long)
+2021-04-07 21:26:50.818 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 0
+2021-04-07 21:27:00.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 21:27:00.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 21:27:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 14
+2021-04-07 21:27:26.066 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==>  Preparing: INSERT INTO tb_family ( family_name, family_phoneNumber ) VALUES ( ?, ? )
+2021-04-07 21:27:26.068 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - ==> Parameters: lxw(String), 13967678537(String)
+2021-04-07 21:27:26.073 [DEBUG] com.lxw.system.mapper.FamilyMapper.insert - <==    Updates: 1
+2021-04-07 21:27:26.647 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==>  Preparing: INSERT INTO tb_lostman_info ( lostman_name, lostman_sex, lostman_IDCard, lostman_remark, lostman_pos, lostman_pos_longitude, lostman_pos_latitude, lost_time, family_id ) VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ? )
+2021-04-07 21:27:26.649 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - ==> Parameters: lxw(String), 0(Integer), (String), (String), 浙江师范大学(String), 120.139284(String), 30.282408(String), 2021-04-07 21:27:08.0(Timestamp), 24(Long)
+2021-04-07 21:27:26.651 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.insert - <==    Updates: 1
+2021-04-07 21:27:26.657 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==>  Preparing: SELECT volunteer_id,longitude,latitude FROM tb_volunteer_pos
+2021-04-07 21:27:26.658 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - ==> Parameters: 
+2021-04-07 21:27:26.659 [DEBUG] com.lxw.system.mapper.VolunteerPosMapper.selectList - <==      Total: 1
+2021-04-07 21:27:26.663 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==>  Preparing: INSERT INTO tb_task ( lostman_id, start_time ) VALUES ( ?, ? )
+2021-04-07 21:27:26.663 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - ==> Parameters: 122(Long), 2021-04-07 21:27:08.0(Timestamp)
+2021-04-07 21:27:26.665 [DEBUG] com.lxw.system.mapper.TaskMapper.insert - <==    Updates: 1
+2021-04-07 21:27:46.896 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==>  Preparing: SELECT lostman_id,lostman_name,lostman_sex,lostman_age,lostman_IDCard,lostman_remark,lostman_pos,lostman_pos_longitude,lostman_pos_latitude,lost_time,family_id FROM tb_lostman_info WHERE lostman_id=?
+2021-04-07 21:27:46.897 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - ==> Parameters: 122(Long)
+2021-04-07 21:27:46.898 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.selectById - <==      Total: 1
+2021-04-07 21:27:55.853 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 21:27:55.854 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 21:27:55.858 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 21:27:55.860 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 21:27:55.860 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 21:27:55.863 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 21:27:55.865 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:27:55.866 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 21:27:55.868 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:27:55.870 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:27:55.871 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 21:27:55.873 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:27:55.875 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 21:27:55.877 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 11(Long)
+2021-04-07 21:27:55.879 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 21:27:55.881 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 21:27:55.882 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 109(Long)
+2021-04-07 21:27:55.883 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 0
+2021-04-07 21:28:09.003 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 21:28:09.004 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 21:28:09.006 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 21:28:09.006 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 21:28:09.007 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 21:28:09.008 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 21:28:09.011 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:28:09.012 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 21:28:09.014 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:28:09.015 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 21:28:09.016 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 10(Long)
+2021-04-07 21:28:09.016 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 21:28:09.018 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 21:28:09.018 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 108(Long)
+2021-04-07 21:28:09.019 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 2
+2021-04-07 21:28:09.024 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:28:09.025 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 21:28:09.026 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:28:24.624 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 21:28:24.625 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 21:28:24.627 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 21:28:24.629 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 21:28:24.630 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 21:28:24.632 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 21:28:24.635 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 21:28:24.635 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 21:28:24.637 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 21:28:24.638 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 21:28:24.638 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 21:28:24.641 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 21:28:24.642 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:28:24.643 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 21:28:24.645 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 21:28:24.646 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:28:24.647 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 21:28:24.649 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 21:28:24.650 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:28:24.650 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 21:28:24.651 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:28:24.652 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:28:24.653 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 21:28:24.654 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:28:24.655 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:28:24.656 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 21:28:24.657 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:28:24.657 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:28:24.658 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 21:28:24.659 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:28:24.661 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 21:28:24.662 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 21:28:24.663 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 21:28:24.724 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 21:28:24.725 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 21:28:24.729 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 21:28:24.730 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 21:28:24.731 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 21:28:24.733 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 21:28:24.735 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:28:24.736 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 21:28:24.738 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:28:24.740 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:28:24.741 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 21:28:24.742 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:28:24.743 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 21:28:24.744 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 11(Long)
+2021-04-07 21:28:24.746 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 21:28:24.748 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 21:28:24.748 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 109(Long)
+2021-04-07 21:28:24.750 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 0
+2021-04-07 21:28:28.301 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 21:28:28.302 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 21:28:28.304 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 21:28:28.306 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 21:28:28.306 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 21:28:28.308 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 21:28:28.309 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:28:28.310 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 21:28:28.312 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:28:28.313 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 21:28:28.314 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 10(Long)
+2021-04-07 21:28:28.315 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 21:28:28.317 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 21:28:28.317 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 108(Long)
+2021-04-07 21:28:28.318 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 2
+2021-04-07 21:28:28.319 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:28:28.320 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 21:28:28.321 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:30:00.020 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task
+2021-04-07 21:30:00.020 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-04-07 21:30:00.023 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 15
+2021-04-07 21:30:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-04-07 21:30:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 122(Long), 2021-04-07 21:27:08.0(Timestamp), 108(Long)
+2021-04-07 21:30:00.031 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-04-07 21:30:20.447 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 21:30:20.448 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 21:30:20.452 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 21:30:20.453 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 21:30:20.454 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 21:30:20.456 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 21:30:20.457 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:30:20.458 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 21:30:20.460 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:30:20.461 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:30:20.461 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 21:30:20.462 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:30:20.463 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 21:30:20.464 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 11(Long)
+2021-04-07 21:30:20.470 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 21:30:20.471 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 21:30:20.471 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 109(Long)
+2021-04-07 21:30:20.472 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 0
+2021-04-07 21:30:22.800 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 21:30:22.800 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 21:30:22.802 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 21:30:22.803 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 21:30:22.804 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 21:30:22.807 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 21:30:22.809 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:30:22.810 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 21:30:22.811 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:30:22.811 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 21:30:22.812 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 10(Long)
+2021-04-07 21:30:22.813 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 21:30:22.814 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 21:30:22.815 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 108(Long)
+2021-04-07 21:30:22.816 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 2
+2021-04-07 21:30:22.818 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 21:30:22.819 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 21:30:22.820 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 21:30:30.968 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_volunteer_info vol
+2021-04-07 21:30:30.969 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage_mpCount - ==> Parameters: 
+2021-04-07 21:30:30.978 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage_mpCount - <==      Total: 1
+2021-04-07 21:30:30.979 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage - ==>  Preparing: select * from tb_volunteer_info vol LIMIT ?
+2021-04-07 21:30:30.979 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage - ==> Parameters: 5(Long)
+2021-04-07 21:30:30.981 [DEBUG] com.lxw.system.mapper.VolunteerMapper.findVolunteerPage - <==      Total: 4
+2021-04-07 21:30:33.311 [DEBUG] com.lxw.system.mapper.VolunteerMapper.selectById - ==>  Preparing: SELECT volunteer_id,openid,volunteer_name,sex,phone_number,address,email,avatar,create_time,status,IDCard FROM tb_volunteer_info WHERE volunteer_id=?
+2021-04-07 21:30:33.311 [DEBUG] com.lxw.system.mapper.VolunteerMapper.selectById - ==> Parameters: 27(Long)
+2021-04-07 21:30:33.313 [DEBUG] com.lxw.system.mapper.VolunteerMapper.selectById - <==      Total: 1
+2021-04-07 23:57:04.717 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==>  Preparing: SELECT id,job_name,job_class,cron_expression,status FROM sys_quartz
+2021-04-07 23:57:04.845 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==> Parameters: 
+2021-04-07 23:57:04.871 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - <==      Total: 1
+2021-04-07 23:57:35.573 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 23:57:35.573 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 23:57:35.575 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 23:57:35.577 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - ==>  Preparing: select id, role_name, remark, create_time from sys_role r where id in (select role_id from sys_user_role where user_id = ? )
+2021-04-07 23:57:35.577 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - ==> Parameters: 3(Long)
+2021-04-07 23:57:35.581 [DEBUG] com.lxw.system.mapper.UserMapper.getRolesByUserId - <==      Total: 1
+2021-04-07 23:57:36.605 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 23:57:36.606 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 23:57:36.607 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 23:57:36.616 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 23:57:36.616 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 23:57:36.618 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 23:57:36.624 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 23:57:36.624 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 23:57:36.630 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 23:57:36.631 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 23:57:36.632 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 23:57:36.634 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 23:57:36.635 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:57:36.636 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 23:57:36.637 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 23:57:36.638 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:57:36.638 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 23:57:36.640 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 23:57:36.640 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:57:36.641 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 23:57:36.642 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:57:36.643 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:57:36.643 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 23:57:36.645 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:57:36.647 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:57:36.648 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 23:57:36.649 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:57:36.650 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:57:36.651 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 23:57:36.651 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:57:36.652 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:57:36.652 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 23:57:36.653 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:57:42.236 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 23:57:42.237 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 23:57:42.239 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 23:57:42.246 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 23:57:42.247 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 23:57:42.250 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 23:57:42.256 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 23:57:42.257 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 23:57:42.259 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 23:57:42.263 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 23:57:42.264 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 23:57:42.266 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 23:57:42.269 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 23:57:42.270 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 11(Long)
+2021-04-07 23:57:42.271 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 23:57:42.275 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 23:57:42.275 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 109(Long)
+2021-04-07 23:57:42.276 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 0
+2021-04-07 23:57:47.275 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 23:57:47.276 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 23:57:47.278 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 23:57:47.281 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 23:57:47.281 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 23:57:47.283 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 23:57:47.285 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 23:57:47.286 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 23:57:47.287 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 23:57:47.289 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 23:57:47.289 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 10(Long)
+2021-04-07 23:57:47.291 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 23:57:47.293 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 23:57:47.295 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 108(Long)
+2021-04-07 23:57:47.298 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 2
+2021-04-07 23:57:47.305 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 23:57:47.305 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 23:57:47.307 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 23:58:26.366 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==>  Preparing: SELECT id,username,password,volunteer_id FROM sys_user WHERE (username = ?)
+2021-04-07 23:58:26.366 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - ==> Parameters: test(String)
+2021-04-07 23:58:26.368 [DEBUG] com.lxw.system.mapper.UserMapper.selectOne - <==      Total: 1
+2021-04-07 23:58:26.370 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==>  Preparing: SELECT user_id,role_id FROM sys_user_role WHERE user_id = ?
+2021-04-07 23:58:26.371 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - ==> Parameters: 3(Long)
+2021-04-07 23:58:26.372 [DEBUG] com.lxw.system.mapper.UserRoleMapper.selectByMap - <==      Total: 1
+2021-04-07 23:58:26.374 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==>  Preparing: SELECT menu_id FROM sys_role_menu WHERE (role_id = ?)
+2021-04-07 23:58:26.375 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - ==> Parameters: 2(Long)
+2021-04-07 23:58:26.377 [DEBUG] com.lxw.system.mapper.RoleMenuMapper.selectList - <==      Total: 7
+2021-04-07 23:58:26.379 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==>  Preparing: SELECT id,parent_id,menu_name,url,icon,order_num FROM sys_menu WHERE id IN ( ? , ? , ? , ? , ? , ? , ? )
+2021-04-07 23:58:26.379 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - ==> Parameters: 2(Long), 3(Long), 4(Long), 7(Long), 8(Long), 9(Long), 10(Long)
+2021-04-07 23:58:26.384 [DEBUG] com.lxw.system.mapper.MenuMapper.selectBatchIds - <==      Total: 7
+2021-04-07 23:58:26.385 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:58:26.385 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 2(Long)
+2021-04-07 23:58:26.387 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 23:58:26.388 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:58:26.388 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 3(Long)
+2021-04-07 23:58:26.390 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 2
+2021-04-07 23:58:26.391 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:58:26.392 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 4(Long)
+2021-04-07 23:58:26.394 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:58:26.394 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:58:26.395 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 7(Long)
+2021-04-07 23:58:26.396 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:58:26.398 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:58:26.398 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 8(Long)
+2021-04-07 23:58:26.399 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:58:26.400 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:58:26.400 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 9(Long)
+2021-04-07 23:58:26.402 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:58:26.403 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==>  Preparing: select * from sys_menu m where m.parent_id = ?
+2021-04-07 23:58:26.404 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - ==> Parameters: 10(Long)
+2021-04-07 23:58:26.405 [DEBUG] com.lxw.system.mapper.MenuMapper.getAllChildById - <==      Total: 0
+2021-04-07 23:58:26.688 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 23:58:26.689 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 23:58:26.692 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 23:58:26.693 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 23:58:26.693 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 23:58:26.695 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 23:58:26.696 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 23:58:26.697 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 23:58:26.700 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 23:58:26.702 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 23:58:26.702 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 23:58:26.703 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 23:58:26.704 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 23:58:26.704 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 11(Long)
+2021-04-07 23:58:26.705 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 23:58:26.706 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 23:58:26.706 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 109(Long)
+2021-04-07 23:58:26.707 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 0
+2021-04-07 23:58:28.386 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==>  Preparing: SELECT COUNT(1) FROM tb_lostman_info tli
+2021-04-07 23:58:28.387 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - ==> Parameters: 
+2021-04-07 23:58:28.389 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage_mpCount - <==      Total: 1
+2021-04-07 23:58:28.390 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==>  Preparing: select * from tb_lostman_info tli LIMIT ?
+2021-04-07 23:58:28.391 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - ==> Parameters: 2(Long)
+2021-04-07 23:58:28.392 [DEBUG] com.lxw.system.mapper.LostmanInfoMapper.findLostmanPage - <==      Total: 2
+2021-04-07 23:58:28.394 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 23:58:28.394 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 108(Long)
+2021-04-07 23:58:28.395 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1
+2021-04-07 23:58:28.397 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==>  Preparing: SELECT family_id,openid,family_name,family_phoneNumber FROM tb_family WHERE family_id=?
+2021-04-07 23:58:28.398 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - ==> Parameters: 10(Long)
+2021-04-07 23:58:28.399 [DEBUG] com.lxw.system.mapper.FamilyMapper.selectById - <==      Total: 1
+2021-04-07 23:58:28.402 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==>  Preparing: SELECT pic_id,pic_url,type,lostman_id FROM tb_lostman_img WHERE (lostman_id = ?)
+2021-04-07 23:58:28.402 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - ==> Parameters: 108(Long)
+2021-04-07 23:58:28.403 [DEBUG] com.lxw.system.mapper.LostmanImgMapper.selectList - <==      Total: 2
+2021-04-07 23:58:28.404 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time,rescue_pos FROM tb_task WHERE (lostman_id = ?)
+2021-04-07 23:58:28.405 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - ==> Parameters: 109(Long)
+2021-04-07 23:58:28.406 [DEBUG] com.lxw.system.mapper.TaskMapper.selectOne - <==      Total: 1

@@ -1,0 +1,20 @@
+2021-04-07 14:14:45.757 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'systemReportLostmanReq' on field 'lostTime': rejected value [2021-04-07T06:14:09.000Z]; codes [typeMismatch.systemReportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [systemReportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '2021-04-07T06:14:09.000Z'; nested exception is java.lang.IllegalArgumentException: Invalid format: "2021-04-07T06:14:09.000Z" is malformed at "T06:14:09.000Z"]
+2021-04-07 14:20:20.659 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-04-07 15:03:01.369 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - Current request is not a multipart request
+2021-04-07 15:06:48.785 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - pic not has face
+2021-04-07 15:09:55.312 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 15:20:18.337 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 15:31:14.645 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 15:32:23.970 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 15:32:41.205 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 16:07:24.835 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 16:12:58.235 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 16:16:40.183 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 16:36:30.214 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 16:41:58.968 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 16:43:32.541 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - face already exist
+2021-04-07 16:44:04.833 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 21:27:48.297 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-07 21:30:37.711 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-07 21:30:38.752 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问

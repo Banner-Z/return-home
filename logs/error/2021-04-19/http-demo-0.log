@@ -1,0 +1,7 @@
+2021-04-19 23:28:32.412 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - syntax error, pos 25, json : [TencentCloudSDKException] code:InvalidParameterValue.PersonTraceNumExceed message:人员人体轨迹数量超出限制。 requestId:81d43922-19d5-4330-babe-0ca8aa9d5308
+2021-04-19 23:29:53.833 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - syntax error, pos 25, json : [TencentCloudSDKException] code:InvalidParameterValue.PersonIdNotExist message:人员ID不存在。 requestId:0de5ffb6-cd37-4c5e-af1d-888d9800bb38
+2021-04-19 23:35:32.466 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - syntax error, pos 25, json : [TencentCloudSDKException] code:InvalidParameterValue.PersonIdNotExist message:人员ID不存在。 requestId:ed076e82-2b8e-4675-9dc0-6a097b852e74
+2021-04-19 23:39:19.831 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人图片不存在
+2021-04-19 23:47:32.014 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人图片不存在
+2021-04-19 23:51:42.023 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - syntax error, pos 25, json : [TencentCloudSDKException] code:InvalidParameterValue.PersonIdAlreadyExist message:人员ID已经存在。人员ID不可重复。 requestId:fbd65be5-b138-4856-8d05-906b3c54158e
+2021-04-19 23:52:25.012 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人图片不存在

@@ -1,0 +1,8 @@
+2021-04-12 18:26:21.701 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-12 18:26:24.298 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-12 18:31:06.795 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - 输入的地址有误
+2021-04-12 18:31:13.332 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - 输入的地址有误
+2021-04-12 18:32:49.414 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - 输入的地址有误
+2021-04-12 18:34:15.723 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - pic not has face
+2021-04-12 18:34:26.718 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-12 18:35:41.474 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问

@@ -1,0 +1,147 @@
+2021-03-12 10:36:11.728 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-12 10:39:31.740 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-12 10:45:06.292 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-12 15:51:21.344 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-03-12 15:51:51.965 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-03-12 17:18:09.328 [http-nio-8081-exec-3] ERROR o.s.s.w.a.UsernamePasswordAuthenticationFilter - An internal error occurred while trying to authenticate the user.
+org.springframework.security.authentication.InternalAuthenticationServiceException: 管理员不能为空
+	at org.springframework.security.authentication.dao.DaoAuthenticationProvider.retrieveUser(DaoAuthenticationProvider.java:108)
+	at org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider.authenticate(AbstractUserDetailsAuthenticationProvider.java:133)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:182)
+	at org.springframework.security.authentication.ProviderManager.authenticate(ProviderManager.java:201)
+	at org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter.attemptAuthentication(UsernamePasswordAuthenticationFilter.java:85)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:222)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:212)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:218)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:212)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:887)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1684)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.RuntimeException: 管理员不能为空
+	at com.lxw.system.service.impl.UserDetailsServiceImpl.loadUserByUsername(UserDetailsServiceImpl.java:29)
+	at org.springframework.security.authentication.dao.DaoAuthenticationProvider.retrieveUser(DaoAuthenticationProvider.java:93)
+	... 60 common frames omitted
+2021-03-12 19:43:51.426 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
+2021-03-12 20:46:41.753 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'POST' not supported
+2021-03-12 20:47:33.705 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'POST' not supported
+2021-03-12 20:48:25.226 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'POST' not supported
+2021-03-12 21:29:46.546 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Required request body is missing: public com.lxw.response.Result com.lxw.system.controller.VolunteerController.findVolunteerList(java.lang.Integer,java.lang.Integer,com.lxw.dto.FindVolunteerInfoReq)
+2021-03-12 21:32:49.049 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 21:33:40.495 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 21:33:43.531 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 21:42:51.222 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 21:48:08.197 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 21:50:39.447 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 21:52:31.535 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - Required request body is missing: public com.lxw.response.Result com.lxw.system.controller.VolunteerController.findVolunteerList(java.lang.Integer,java.lang.Integer,com.lxw.dto.FindVolunteerInfoReq)
+2021-03-12 22:04:31.021 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-12 22:08:27.572 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\VolunteerMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_volunteer_info vol WHERE (username = ? AND phoneNumber = ? AND email = ? AND sex = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+2021-03-12 22:12:29.273 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\VolunteerMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_volunteer_info vol WHERE (username = ? AND phoneNumber = ? AND email = ? AND sex = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+2021-03-12 22:12:41.179 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\VolunteerMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_volunteer_info vol WHERE (username = ? AND phoneNumber = ? AND email = ? AND sex = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+2021-03-12 22:15:18.042 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 22:17:11.765 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 22:17:59.005 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 22:21:19.168 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 22:22:25.916 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 22:23:58.440 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 22:27:27.952 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 22:27:36.020 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 22:28:00.363 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 22:29:59.224 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Required VolunteerVO parameter 'findVolunteerInfoReq' is not present
+2021-03-12 22:31:16.328 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - Required VolunteerVO parameter 'findVolunteerInfoReq' is not present
+2021-03-12 22:38:52.354 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Required VolunteerVO parameter 'findVolunteerInfoReq' is not present
+2021-03-12 22:58:36.710 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - Required VolunteerVO parameter 'findVolunteerInfoReq' is not present
+2021-03-12 22:59:26.876 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Required VolunteerVO parameter 'findVolunteerInfoReq' is not present
+2021-03-12 23:00:27.688 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\VolunteerMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_volunteer_info vol WHERE (username = ? AND phoneNumber = ? AND email = ? AND sex = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'phoneNumber' in 'where clause'
+2021-03-12 23:34:01.984 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 23:36:11.676 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-12 23:37:32.806 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported

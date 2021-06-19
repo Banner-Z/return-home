@@ -1,0 +1,202 @@
+2021-03-09 08:55:56.407 [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2021-03-09 08:55:56.444 [INFO ] ReturnHomeApplication - Starting ReturnHomeApplication using Java 1.8.0_212 on LAPTOP-K8D3MGN6 with PID 11460 (E:\return-home\returnhome-web\target\classes started by ASUS in E:\return-home)
+2021-03-09 08:55:56.445 [INFO ] ReturnHomeApplication - No active profile set, falling back to default profiles: default
+2021-03-09 08:55:59.293 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@3f672204' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 08:55:59.297 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 08:55:59.890 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-03-09 08:55:59.900 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-03-09 08:55:59.901 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-09 08:55:59.902 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-09 08:55:59.904 [INFO ] org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-03-09 08:55:59.904 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-09 08:55:59.904 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-09 08:55:59.954 [INFO ] org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-03-09 08:56:00.127 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-09 08:56:00.128 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3568 ms
+2021-03-09 08:56:00.580 [INFO ] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-03-09 08:56:01.165 [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-09 08:56:03.310 [INFO ] springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-03-09 08:56:03.480 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@61bb1e4d, org.springframework.security.web.context.SecurityContextPersistenceFilter@56846330, org.springframework.security.web.header.HeaderWriterFilter@6cbe68e9, org.springframework.web.filter.CorsFilter@5c53f292, org.springframework.security.web.authentication.logout.LogoutFilter@7499eac7, JwtAuthenticationFilter@46fb0c33, JwtAuthorizationFilter@3b009e7b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6cfbbff7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@14c141c0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@270a620, org.springframework.security.web.session.SessionManagementFilter@750a04ec, org.springframework.security.web.access.ExceptionTranslationFilter@e829999, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@c1050f2]
+2021-03-09 08:56:03.559 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-09 08:56:03.947 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-03-09 08:56:03.980 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2021-03-09 08:56:03.981 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+2021-03-09 08:56:03.984 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-09 08:56:04.012 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-09 08:56:04.093 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: listTasksUsingGET_1
+2021-03-09 08:56:04.095 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: newTasksUsingPOST_1
+2021-03-09 08:56:04.185 [INFO ] ReturnHomeApplication - Started ReturnHomeApplication in 8.945 seconds (JVM running for 10.445)
+2021-03-09 09:06:45.155 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-09 09:07:41.530 [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2021-03-09 09:07:41.535 [INFO ] ReturnHomeApplication - Starting ReturnHomeApplication using Java 1.8.0_212 on LAPTOP-K8D3MGN6 with PID 5740 (E:\return-home\returnhome-web\target\classes started by ASUS in E:\return-home)
+2021-03-09 09:07:41.536 [INFO ] ReturnHomeApplication - No active profile set, falling back to default profiles: default
+2021-03-09 09:07:42.632 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@2c2db130' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:07:42.638 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:07:42.844 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-03-09 09:07:42.854 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:07:42.855 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-09 09:07:42.856 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-09 09:07:42.858 [INFO ] org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-03-09 09:07:42.858 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-09 09:07:42.859 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-09 09:07:42.862 [INFO ] org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-03-09 09:07:42.945 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-09 09:07:42.945 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1343 ms
+2021-03-09 09:07:43.149 [INFO ] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-03-09 09:07:43.402 [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-09 09:07:44.803 [INFO ] springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-03-09 09:07:44.899 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4cb957b8, org.springframework.security.web.context.SecurityContextPersistenceFilter@66fb45e5, org.springframework.security.web.header.HeaderWriterFilter@5af64ce0, org.springframework.web.filter.CorsFilter@3cdc7b09, org.springframework.security.web.authentication.logout.LogoutFilter@7bdf61ad, JwtAuthenticationFilter@7364eed1, JwtAuthorizationFilter@684e8c9d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6f5e16cf, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@30db5536, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6ecc02bb, org.springframework.security.web.session.SessionManagementFilter@17229821, org.springframework.security.web.access.ExceptionTranslationFilter@7d528cf7, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1a538ed8]
+2021-03-09 09:07:44.949 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-09 09:07:45.110 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:07:45.139 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2021-03-09 09:07:45.140 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+2021-03-09 09:07:45.142 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-09 09:07:45.169 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-09 09:07:45.227 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: listTasksUsingGET_1
+2021-03-09 09:07:45.229 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: newTasksUsingPOST_1
+2021-03-09 09:07:45.284 [INFO ] ReturnHomeApplication - Started ReturnHomeApplication in 4.408 seconds (JVM running for 5.569)
+2021-03-09 09:07:49.393 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-09 09:13:34.611 [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2021-03-09 09:13:34.619 [INFO ] ReturnHomeApplication - Starting ReturnHomeApplication using Java 1.8.0_212 on LAPTOP-K8D3MGN6 with PID 7988 (E:\return-home\returnhome-web\target\classes started by ASUS in E:\return-home)
+2021-03-09 09:13:34.621 [INFO ] ReturnHomeApplication - No active profile set, falling back to default profiles: default
+2021-03-09 09:13:35.856 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@7cf283e1' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:13:35.860 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:13:36.058 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-03-09 09:13:36.068 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:13:36.069 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-09 09:13:36.069 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-09 09:13:36.070 [INFO ] org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-03-09 09:13:36.070 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-09 09:13:36.071 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-09 09:13:36.074 [INFO ] org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-03-09 09:13:36.164 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-09 09:13:36.164 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1461 ms
+2021-03-09 09:13:36.397 [INFO ] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-03-09 09:13:36.642 [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-09 09:13:38.133 [INFO ] springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-03-09 09:13:38.240 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@22d7fd41, org.springframework.security.web.context.SecurityContextPersistenceFilter@70a898b0, org.springframework.security.web.header.HeaderWriterFilter@a7cf42f, org.springframework.web.filter.CorsFilter@2c748a15, org.springframework.security.web.authentication.logout.LogoutFilter@1dad01fe, JwtAuthenticationFilter@19fd43da, JwtAuthorizationFilter@115dcaea, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@54336976, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@b9d018b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@cfd1075, org.springframework.security.web.session.SessionManagementFilter@28e0e464, org.springframework.security.web.access.ExceptionTranslationFilter@4f2d014a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4fc165f6]
+2021-03-09 09:13:38.290 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-09 09:13:38.459 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:13:38.477 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2021-03-09 09:13:38.478 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+2021-03-09 09:13:38.481 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-09 09:13:38.508 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-09 09:13:38.578 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: listTasksUsingGET_1
+2021-03-09 09:13:38.580 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: newTasksUsingPOST_1
+2021-03-09 09:13:38.633 [INFO ] ReturnHomeApplication - Started ReturnHomeApplication in 4.798 seconds (JVM running for 5.948)
+2021-03-09 09:14:05.540 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-09 09:25:48.009 [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2021-03-09 09:25:48.014 [INFO ] ReturnHomeApplication - Starting ReturnHomeApplication using Java 1.8.0_212 on LAPTOP-K8D3MGN6 with PID 14556 (E:\return-home\returnhome-web\target\classes started by ASUS in E:\return-home)
+2021-03-09 09:25:48.015 [INFO ] ReturnHomeApplication - No active profile set, falling back to default profiles: default
+2021-03-09 09:25:49.234 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@20e6c4dc' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:25:49.239 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:25:49.477 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-03-09 09:25:49.488 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:25:49.489 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-09 09:25:49.489 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-09 09:25:49.490 [INFO ] org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-03-09 09:25:49.490 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-09 09:25:49.490 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-09 09:25:49.493 [INFO ] org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-03-09 09:25:49.578 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-09 09:25:49.578 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1502 ms
+2021-03-09 09:25:49.779 [INFO ] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-03-09 09:25:50.030 [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-09 09:25:51.414 [INFO ] springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-03-09 09:25:51.515 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5c134052, org.springframework.security.web.context.SecurityContextPersistenceFilter@1d98daa0, org.springframework.security.web.header.HeaderWriterFilter@51fc862e, org.springframework.web.filter.CorsFilter@69de5bed, org.springframework.security.web.authentication.logout.LogoutFilter@43ac0a68, JwtAuthenticationFilter@750f64fe, JwtAuthorizationFilter@996a546, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7bdf61ad, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5438c17a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4fc165f6, org.springframework.security.web.session.SessionManagementFilter@fe09383, org.springframework.security.web.access.ExceptionTranslationFilter@d611f1c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@603cabc4]
+2021-03-09 09:25:51.566 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-09 09:25:51.728 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:25:51.746 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2021-03-09 09:25:51.747 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+2021-03-09 09:25:51.749 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-09 09:25:51.773 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-09 09:25:51.821 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: listTasksUsingGET_1
+2021-03-09 09:25:51.822 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: newTasksUsingPOST_1
+2021-03-09 09:25:51.877 [INFO ] ReturnHomeApplication - Started ReturnHomeApplication in 4.461 seconds (JVM running for 5.567)
+2021-03-09 09:55:27.101 [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2021-03-09 09:55:27.105 [INFO ] ReturnHomeApplication - Starting ReturnHomeApplication using Java 1.8.0_212 on LAPTOP-K8D3MGN6 with PID 21568 (E:\return-home\returnhome-web\target\classes started by ASUS in E:\return-home)
+2021-03-09 09:55:27.106 [INFO ] ReturnHomeApplication - No active profile set, falling back to default profiles: default
+2021-03-09 09:55:28.301 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@4d2a1da3' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:55:28.304 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:55:28.504 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-03-09 09:55:28.513 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:55:28.514 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-09 09:55:28.514 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-09 09:55:28.517 [INFO ] org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-03-09 09:55:28.517 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-09 09:55:28.518 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-09 09:55:28.522 [INFO ] org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-03-09 09:55:28.614 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-09 09:55:28.614 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1444 ms
+2021-03-09 09:55:28.818 [INFO ] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-03-09 09:55:29.063 [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-09 09:55:30.578 [INFO ] springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-03-09 09:55:30.693 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@45117dd, org.springframework.security.web.context.SecurityContextPersistenceFilter@3b7c80c6, org.springframework.security.web.header.HeaderWriterFilter@70a898b0, org.springframework.web.filter.CorsFilter@7741771e, org.springframework.security.web.authentication.logout.LogoutFilter@68b734a8, JwtAuthenticationFilter@834e986, JwtAuthorizationFilter@6cae2e4d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7499eac7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@8bd076a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@604d23fa, org.springframework.security.web.session.SessionManagementFilter@54336976, org.springframework.security.web.access.ExceptionTranslationFilter@28e0e464, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2c748a15]
+2021-03-09 09:55:30.755 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-09 09:55:30.958 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:55:30.975 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2021-03-09 09:55:30.976 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+2021-03-09 09:55:30.978 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-09 09:55:31.003 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-09 09:55:31.076 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: listTasksUsingGET_1
+2021-03-09 09:55:31.077 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: newTasksUsingPOST_1
+2021-03-09 09:55:31.147 [INFO ] ReturnHomeApplication - Started ReturnHomeApplication in 4.729 seconds (JVM running for 5.892)
+2021-03-09 09:55:34.280 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-09 09:55:58.031 [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2021-03-09 09:55:58.037 [INFO ] ReturnHomeApplication - Starting ReturnHomeApplication using Java 1.8.0_212 on LAPTOP-K8D3MGN6 with PID 5212 (E:\return-home\returnhome-web\target\classes started by ASUS in E:\return-home)
+2021-03-09 09:55:58.038 [INFO ] ReturnHomeApplication - No active profile set, falling back to default profiles: default
+2021-03-09 09:55:59.362 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@20e6c4dc' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:55:59.365 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 09:55:59.564 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-03-09 09:55:59.575 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:55:59.575 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-09 09:55:59.576 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-09 09:55:59.578 [INFO ] org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-03-09 09:55:59.578 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-09 09:55:59.578 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-09 09:55:59.581 [INFO ] org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-03-09 09:55:59.663 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-09 09:55:59.663 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1548 ms
+2021-03-09 09:55:59.872 [INFO ] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-03-09 09:56:00.115 [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-09 09:56:01.702 [INFO ] springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-03-09 09:56:01.804 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@45117dd, org.springframework.security.web.context.SecurityContextPersistenceFilter@3b7c80c6, org.springframework.security.web.header.HeaderWriterFilter@70a898b0, org.springframework.web.filter.CorsFilter@7741771e, org.springframework.security.web.authentication.logout.LogoutFilter@68b734a8, JwtAuthenticationFilter@834e986, JwtAuthorizationFilter@6cae2e4d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7499eac7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@8bd076a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@604d23fa, org.springframework.security.web.session.SessionManagementFilter@54336976, org.springframework.security.web.access.ExceptionTranslationFilter@28e0e464, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2c748a15]
+2021-03-09 09:56:01.858 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-09 09:56:02.056 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-03-09 09:56:02.077 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2021-03-09 09:56:02.078 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+2021-03-09 09:56:02.081 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-09 09:56:02.113 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-09 09:56:02.181 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: listTasksUsingGET_1
+2021-03-09 09:56:02.182 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: newTasksUsingPOST_1
+2021-03-09 09:56:02.246 [INFO ] ReturnHomeApplication - Started ReturnHomeApplication in 4.916 seconds (JVM running for 6.071)
+2021-03-09 09:56:26.161 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-09 10:00:01.127 [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2021-03-09 10:00:01.132 [INFO ] ReturnHomeApplication - Starting ReturnHomeApplication using Java 1.8.0_212 on LAPTOP-K8D3MGN6 with PID 10596 (E:\return-home\returnhome-web\target\classes started by ASUS in E:\return-home)
+2021-03-09 10:00:01.133 [INFO ] ReturnHomeApplication - No active profile set, falling back to default profiles: default
+2021-03-09 10:00:02.335 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6d9fb2d1' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 10:00:02.338 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-09 10:00:02.554 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-03-09 10:00:02.563 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-03-09 10:00:02.564 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-09 10:00:02.564 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-09 10:00:02.566 [INFO ] org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-03-09 10:00:02.566 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-03-09 10:00:02.566 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-03-09 10:00:02.570 [INFO ] org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-03-09 10:00:02.651 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-03-09 10:00:02.652 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1469 ms
+2021-03-09 10:00:02.861 [INFO ] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-03-09 10:00:03.106 [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-03-09 10:00:04.597 [INFO ] springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-03-09 10:00:04.701 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@c1050f2, org.springframework.security.web.context.SecurityContextPersistenceFilter@6cfbbff7, org.springframework.security.web.header.HeaderWriterFilter@750a04ec, org.springframework.web.filter.CorsFilter@67bb4dcd, org.springframework.security.web.authentication.logout.LogoutFilter@b9d018b, JwtAuthenticationFilter@738d37fc, JwtAuthorizationFilter@6fa2448b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@45b32dfe, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@d611f1c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@61bb1e4d, org.springframework.security.web.session.SessionManagementFilter@56846330, org.springframework.security.web.access.ExceptionTranslationFilter@6cbe68e9, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@10850d17]
+2021-03-09 10:00:04.751 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-09 10:00:04.955 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-03-09 10:00:04.978 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2021-03-09 10:00:04.979 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+2021-03-09 10:00:04.983 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-03-09 10:00:05.015 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-03-09 10:00:05.075 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: listTasksUsingGET_1
+2021-03-09 10:00:05.077 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: newTasksUsingPOST_1
+2021-03-09 10:00:05.139 [INFO ] ReturnHomeApplication - Started ReturnHomeApplication in 4.61 seconds (JVM running for 5.727)
+2021-03-09 10:00:19.302 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'

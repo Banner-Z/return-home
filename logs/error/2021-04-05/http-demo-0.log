@@ -1,0 +1,13 @@
+2021-04-05 00:23:25.861 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - nested exception is org.apache.ibatis.binding.BindingException: Parameter 'ew' not found. Available parameters are [wrapper, page, param1, param2]
+2021-04-05 00:25:37.744 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'lostmanPos' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\LostmanInfoMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_lostman_info tli WHERE (lostmanPos LIKE ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'lostmanPos' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'lostmanPos' in 'where clause'
+2021-04-05 15:10:02.311 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+2021-04-05 20:53:26.566 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+2021-04-05 20:53:32.830 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+2021-04-05 23:50:19.146 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问

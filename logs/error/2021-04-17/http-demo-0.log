@@ -1,0 +1,4 @@
+2021-04-17 15:18:56.049 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-17 15:27:06.640 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 3
+2021-04-17 16:19:33.717 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-04-17 16:19:39.560 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - null

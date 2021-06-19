@@ -1,0 +1,11 @@
+2021-03-11 11:57:27.548 [http-nio-8081-exec-6] ERROR GlobalExceptionHandler - 不允许访问
+2021-03-11 14:48:18.473 [http-nio-8081-exec-1] ERROR GlobalExceptionHandler - java.lang.String cannot be cast to JwtUser
+2021-03-11 14:50:14.833 [http-nio-8081-exec-1] ERROR GlobalExceptionHandler - java.lang.String cannot be cast to JwtUser
+2021-03-11 14:53:10.748 [http-nio-8081-exec-3] ERROR GlobalExceptionHandler - java.lang.String cannot be cast to JwtUser
+2021-03-11 14:54:56.223 [http-nio-8081-exec-1] ERROR GlobalExceptionHandler - java.lang.String cannot be cast to JwtUser
+2021-03-11 14:57:21.049 [http-nio-8081-exec-1] ERROR GlobalExceptionHandler - java.lang.String cannot be cast to JwtUser
+2021-03-11 14:58:57.268 [http-nio-8081-exec-4] ERROR GlobalExceptionHandler - java.lang.String cannot be cast to JwtUser
+2021-03-11 15:03:36.497 [http-nio-8081-exec-2] ERROR GlobalExceptionHandler - java.lang.String cannot be cast to JwtUser
+2021-03-11 21:47:48.738 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-03-11 21:48:34.560 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'POST' not supported
+2021-03-11 22:41:49.939 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - java.lang.String cannot be cast to com.lxw.entity.User

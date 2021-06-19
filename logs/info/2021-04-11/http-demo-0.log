@@ -1,0 +1,92 @@
+2021-04-11 20:18:46.574 [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-11 20:18:46.704 [INFO ] com.lxw.ReturnHomeApplication - Starting ReturnHomeApplication using Java 1.8.0_212 on LAPTOP-K8D3MGN6 with PID 19276 (E:\return-home\returnhome-web\target\classes started by ASUS in E:\return-home)
+2021-04-11 20:18:46.704 [INFO ] com.lxw.ReturnHomeApplication - No active profile set, falling back to default profiles: default
+2021-04-11 20:18:51.624 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@390877d2' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-04-11 20:18:51.624 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-04-11 20:18:52.304 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-04-11 20:18:52.314 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-04-11 20:18:52.314 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-04-11 20:18:52.314 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-04-11 20:18:52.314 [INFO ] org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-04-11 20:18:52.314 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-04-11 20:18:52.314 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-04-11 20:18:52.314 [INFO ] org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-04-11 20:18:52.434 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-04-11 20:18:52.434 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5520 ms
+2021-04-11 20:18:52.824 [INFO ] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-04-11 20:18:53.354 [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-11 20:18:55.074 [INFO ] org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2021-04-11 20:18:55.084 [INFO ] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2021-04-11 20:18:55.084 [INFO ] org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+2021-04-11 20:18:55.084 [INFO ] org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2021-04-11 20:18:55.084 [INFO ] org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-04-11 20:18:55.084 [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2021-04-11 20:18:55.084 [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+2021-04-11 20:18:55.084 [INFO ] org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@63300c4b
+2021-04-11 20:18:56.014 [INFO ] springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-04-11 20:18:56.139 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1f4f0fcc, org.springframework.security.web.context.SecurityContextPersistenceFilter@392781e, org.springframework.security.web.header.HeaderWriterFilter@3b481bf5, org.springframework.web.filter.CorsFilter@46c10083, org.springframework.security.web.authentication.logout.LogoutFilter@7d42404e, com.lxw.fliter.JwtAuthenticationFilter@28e8888d, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@644d1b61, com.lxw.fliter.JwtAuthorizationFilter@1e98b788, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@28cd2c2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1b57c345, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@794eeaf8, org.springframework.security.web.session.SessionManagementFilter@67fb5025, org.springframework.security.web.access.ExceptionTranslationFilter@459003a0, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@15c6027d]
+2021-04-11 20:18:56.154 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-04-11 20:18:56.204 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-11 20:18:56.624 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-04-11 20:18:56.654 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-11 20:18:56.654 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2021-04-11 20:18:56.654 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+2021-04-11 20:18:56.659 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-04-11 20:18:56.684 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-04-11 20:18:56.884 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: getTaskDetailsUsingGET_1
+2021-04-11 20:18:56.894 [INFO ] org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2021-04-11 20:18:56.894 [INFO ] org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2021-04-11 20:18:56.919 [INFO ] com.lxw.ReturnHomeApplication - Started ReturnHomeApplication in 11.801 seconds (JVM running for 13.612)
+2021-04-11 22:22:08.714 [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.7.Final
+2021-04-11 22:22:08.730 [INFO ] com.lxw.ReturnHomeApplication - Starting ReturnHomeApplication using Java 1.8.0_212 on LAPTOP-K8D3MGN6 with PID 8696 (E:\return-home\returnhome-web\target\classes started by ASUS in E:\return-home)
+2021-04-11 22:22:08.730 [INFO ] com.lxw.ReturnHomeApplication - No active profile set, falling back to default profiles: default
+2021-04-11 22:22:10.139 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@338cc75f' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-04-11 22:22:10.149 [INFO ] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-04-11 22:22:10.417 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2021-04-11 22:22:10.435 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2021-04-11 22:22:10.437 [INFO ] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-04-11 22:22:10.438 [INFO ] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-04-11 22:22:10.441 [INFO ] org.apache.catalina.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2021-04-11 22:22:10.441 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-04-11 22:22:10.442 [INFO ] org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-04-11 22:22:10.446 [INFO ] org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2021-04-11 22:22:10.547 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-04-11 22:22:10.547 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1748 ms
+2021-04-11 22:22:10.799 [INFO ] com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+2021-04-11 22:22:11.053 [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-04-11 22:22:12.496 [INFO ] org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2021-04-11 22:22:12.507 [INFO ] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2021-04-11 22:22:12.508 [INFO ] org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+2021-04-11 22:22:12.509 [INFO ] org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2021-04-11 22:22:12.510 [INFO ] org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-04-11 22:22:12.510 [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2021-04-11 22:22:12.510 [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+2021-04-11 22:22:12.510 [INFO ] org.quartz.core.QuartzScheduler - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@49469ffa
+2021-04-11 22:22:13.134 [INFO ] springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2021-04-11 22:22:13.257 [INFO ] org.springframework.security.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5aa62ee7, org.springframework.security.web.context.SecurityContextPersistenceFilter@2401856, org.springframework.security.web.header.HeaderWriterFilter@ea7a4c3, org.springframework.web.filter.CorsFilter@1f7cec93, org.springframework.security.web.authentication.logout.LogoutFilter@4b425577, com.lxw.fliter.JwtAuthenticationFilter@3c9ef6e9, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@38588dea, com.lxw.fliter.JwtAuthorizationFilter@3cdff901, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2a4f8009, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4bf80c29, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@57e5396b, org.springframework.security.web.session.SessionManagementFilter@6af5b246, org.springframework.security.web.access.ExceptionTranslationFilter@4e8b357d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@79627d27]
+2021-04-11 22:22:13.293 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2021-04-11 22:22:13.356 [INFO ] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-11 22:22:13.661 [INFO ] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2021-04-11 22:22:13.683 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-11 22:22:13.687 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2021-04-11 22:22:13.689 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Documentation plugins bootstrapped
+2021-04-11 22:22:13.692 [INFO ] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-04-11 22:22:13.736 [INFO ] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-04-11 22:22:14.003 [INFO ] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: getTaskDetailsUsingGET_1
+2021-04-11 22:22:14.028 [INFO ] org.springframework.scheduling.quartz.SchedulerFactoryBean - Starting Quartz Scheduler now
+2021-04-11 22:22:14.029 [INFO ] org.quartz.core.QuartzScheduler - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2021-04-11 22:22:14.047 [INFO ] com.lxw.ReturnHomeApplication - Started ReturnHomeApplication in 6.302 seconds (JVM running for 7.735)

@@ -1,0 +1,27 @@
+2021-03-19 13:10:41.881 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-19 13:12:18.566 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-19 16:33:32.749 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - Current request is not a multipart request
+2021-03-19 17:28:05.844 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-19 19:20:29.861 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'pic_url' in 'field list'
+### The error may exist in com/lxw/system/mapper/LostmanImgMapper.java (best guess)
+### The error may involve com.lxw.system.mapper.LostmanImgMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO tb_lostman_img  ( pic_url, lostman_id )  VALUES  ( ?, ? )
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'pic_url' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'pic_url' in 'field list'
+2021-03-19 19:20:38.151 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'pic_url' in 'field list'
+### The error may exist in com/lxw/system/mapper/LostmanImgMapper.java (best guess)
+### The error may involve com.lxw.system.mapper.LostmanImgMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO tb_lostman_img  ( pic_url, lostman_id )  VALUES  ( ?, ? )
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'pic_url' in 'field list'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'pic_url' in 'field list'
+2021-03-19 21:48:50.796 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Access key id should not be null or empty.
+2021-03-19 21:49:43.303 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Access key id should not be null or empty.
+2021-03-19 21:57:18.765 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Access key id should not be null or empty.
+2021-03-19 21:58:00.288 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Access key id should not be null or empty.
+2021-03-19 22:00:02.062 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Access key id should not be null or empty.
+2021-03-19 22:34:48.498 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Access key id should not be null or empty.
+2021-03-19 22:37:07.865 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 参数"bucketName"为空指针。

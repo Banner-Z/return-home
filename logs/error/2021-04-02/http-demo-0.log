@@ -1,0 +1,9 @@
+2021-04-02 00:48:41.513 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人不存在
+2021-04-02 14:36:09.247 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - face already exist
+2021-04-02 14:43:09.005 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - face already exist
+2021-04-02 15:23:59.478 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-02 15:24:09.166 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-02 15:24:56.433 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-02 15:25:57.226 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人年龄不符合报案要求
+2021-04-02 19:31:56.431 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-02 19:31:57.557 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问

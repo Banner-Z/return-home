@@ -1,0 +1,60 @@
+server:
+  port: 8081
+
+spring:
+  mvc:
+    servlet:
+      load-on-startup: 100
+  application:
+    name: returnhome-web
+  task:
+    scheduling:
+      pool:
+        size: 10
+
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/returnhome?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
+    username: returnhome
+    password: 46dfJWTtem33P2rb
+    druid:
+      # 初始连接数
+      initialSize: 10
+      # 最小连接池数量
+      minIdle: 10
+      # 最大连接池数量
+      maxActive: 30
+      # 配置获取连接等待超时的时间
+      maxWait: 60000
+      # 间隔检测需要关闭的空闲连接
+      timeBetweenEvictionRunsMillis: 70000
+
+    jackson:
+      date-format: yyyy-MM-dd HH:mm:ss
+      time-zone: GMT+8
+
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl # 日志
+  global-config:
+    db-config:
+      logic-delete-field: flag # 全局逻辑删除的实体字段名
+      logic-delete-value: 1 # 逻辑已删除值
+      logic-not-delete-value: 0 # 逻辑未删除值
+  mapper-locations: classpath*:/mapper/*.xml
+  type-aliases-package: com.lxw.entity
+
+alioss:
+  # API鉴权
+  accessKeyId: LTAI5t7xGtAAyVGqygB2eyxK # 访问身份验证中用到用户标识
+  accessKeySecret: TLSHMPCBoqISxDka3sDR3UKNrUWJGY # 用户用于加密签名字符串和oss用来验证签名字符串的密钥
+  # oss访问域名
+  endpoint: oss-cn-hangzhou.aliyuncs.com
+  bucketName: return-home # oss的存储空间
+  maxSize: 10 # 上传文件大小(M)
+
+
+
+

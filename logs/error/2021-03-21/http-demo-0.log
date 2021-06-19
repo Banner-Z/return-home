@@ -1,0 +1,9 @@
+2021-03-21 20:32:44.110 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Required request part 'file' is not present
+2021-03-21 20:40:17.553 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Required request part 'file' is not present
+2021-03-21 20:40:41.824 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Current request is not a multipart request
+2021-03-21 20:44:18.119 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Current request is not a multipart request
+2021-03-21 20:45:34.416 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Required request part 'file' is not present
+2021-03-21 20:47:30.064 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - Required Long parameter 'lostmanId' is not present
+2021-03-21 21:04:17.249 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Current request is not a multipart request
+2021-03-21 21:06:24.395 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Required request part 'file' is not present
+2021-03-21 21:06:28.131 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Required Long parameter 'lostmanId' is not present

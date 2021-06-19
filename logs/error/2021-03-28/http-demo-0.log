@@ -1,0 +1,13 @@
+2021-03-28 09:56:37.792 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-28 11:28:06.175 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-03-28 14:41:24.492 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-03-28 15:25:25.529 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+2021-03-28 17:30:17.140 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-28 17:32:11.224 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-28 17:36:40.977 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-03-28 17:44:16.303 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-03-28 20:48:17.370 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-28 20:54:39.672 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-28 21:22:58.070 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-28 23:41:08.082 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-28 23:41:50.632 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - null

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lxw.system.mapper.VolunteerMapper">
+
+    <!--根据条件分页查询志愿者-->
+    <select id="findVolunteerPage" resultType="Volunteer">
+      select *
+      from tb_volunteer_info vol
+      ${ew.customSqlSegment}
+    </select>
+
+
+
+</mapper>

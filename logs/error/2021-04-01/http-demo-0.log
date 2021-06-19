@@ -1,0 +1,99 @@
+2021-04-01 15:46:34.119 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-04-01 15:50:20.009 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-04-01 15:52:26.086 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-04-01 15:53:18.254 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-04-01 15:54:22.970 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-04-01 15:54:28.910 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 操作数据库出现异常:
+2021-04-01 18:53:36.030 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 18:53:50.980 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 18:57:25.880 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 18:58:34.142 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 18:58:44.251 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 19:02:27.896 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 19:06:36.022 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 19:28:01.336 [http-nio-8081-exec-5] ERROR o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+io.jsonwebtoken.MalformedJwtException: JWT strings must contain exactly 2 period characters. Found: 0
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:235)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:481)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:541)
+	at com.lxw.utils.JwtTokenUtils.getTokenBody(JwtTokenUtils.java:91)
+	at com.lxw.utils.JwtTokenUtils.getUsername(JwtTokenUtils.java:63)
+	at com.lxw.fliter.JwtAuthorizationFilter.getAuthentication(JwtAuthorizationFilter.java:44)
+	at com.lxw.fliter.JwtAuthorizationFilter.doFilterInternal(JwtAuthorizationFilter.java:37)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:218)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:212)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:218)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:212)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:887)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1684)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-04-01 19:34:48.285 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 19:36:31.247 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 19:38:09.726 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 19:38:56.191 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 19:42:48.690 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 19:42:50.880 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 19:55:23.159 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 20:08:11.349 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 20:08:12.985 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 20:08:13.524 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 20:31:35.294 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 20:31:46.262 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 20:31:48.038 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 不允许访问
+2021-04-01 21:56:10.905 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人不存在
+2021-04-01 23:26:01.546 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - syntax error, pos 25, json : [TencentCloudSDKException] code:FailedOperation.GroupEmpty message:搜索的人体库为空。 requestId:2717cc24-6e81-4113-81ed-4f6accde1cac
+2021-04-01 23:26:23.462 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - syntax error, pos 25, json : [TencentCloudSDKException] code:InvalidParameterValue.PersonIdNotExist message:人员ID不存在。 requestId:ccbccc2a-71ba-4768-9916-d11838065073
+2021-04-01 23:34:20.810 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - syntax error, pos 25, json : [TencentCloudSDKException] code:InvalidParameterValue.PersonIdNotExist message:人员ID不存在。 requestId:f6f6e733-222e-44b5-9155-1f01689610d6
+2021-04-01 23:58:03.967 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - com.alibaba.fastjson.JSONObject cannot be cast to com.lxw.dto.BodyDetResDTO
+2021-04-01 23:59:10.480 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - com.alibaba.fastjson.JSONObject cannot be cast to com.lxw.dto.BodyDetResDTO

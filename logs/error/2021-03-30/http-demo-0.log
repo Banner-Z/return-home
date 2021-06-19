@@ -1,0 +1,66 @@
+2021-03-30 00:22:53.681 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-30 00:23:53.430 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-30 00:27:14.745 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-30 00:28:26.531 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-30 00:31:49.346 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-30 00:31:49.892 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-30 01:12:09.349 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-30 01:17:58.346 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-30 12:36:37.211 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-30 12:38:31.332 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-30 12:38:32.665 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Source must not be null
+2021-03-30 16:54:16.126 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人不存在
+2021-03-30 17:16:36.079 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - pic not has face
+2021-03-30 17:17:25.966 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-30 18:04:46.890 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - face already exist
+2021-03-30 18:05:23.961 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - pic not has face
+2021-03-30 18:06:05.484 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Current request is not a multipart request
+2021-03-30 18:07:05.789 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Current request is not a multipart request
+2021-03-30 18:07:37.329 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - Current request is not a multipart request
+2021-03-30 18:07:39.361 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - Current request is not a multipart request
+2021-03-30 18:09:15.667 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'GET' not supported
+2021-03-30 18:11:47.821 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 该老人不存在
+2021-03-30 18:15:39.334 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-30 19:14:04.619 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-30 20:49:50.215 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-30 20:50:43.909 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-30 21:03:35.639 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'username' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\VolunteerMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_volunteer_info vol WHERE (username = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'username' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'username' in 'where clause'
+2021-03-30 21:04:28.044 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\VolunteerMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_volunteer_info vol WHERE (id = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+2021-03-30 21:04:29.270 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\VolunteerMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_volunteer_info vol WHERE (id = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+2021-03-30 21:04:38.042 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\VolunteerMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_volunteer_info vol WHERE (id = ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'id' in 'where clause'
+2021-03-30 21:17:04.669 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'volunteerId' in 'where clause'
+### The error may exist in file [E:\return-home\returnhome-web\target\classes\mapper\VolunteerMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(1) FROM tb_volunteer_info vol WHERE (volunteerId = ? AND volunteerName LIKE ? AND phone_number LIKE ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'volunteerId' in 'where clause'
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'volunteerId' in 'where clause'

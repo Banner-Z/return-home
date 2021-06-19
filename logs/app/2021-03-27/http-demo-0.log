@@ -1,0 +1,42 @@
+2021-03-27 00:13:23.826 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==>  Preparing: SELECT id,job_name,job_class,cron_expression,status FROM sys_quartz
+2021-03-27 00:13:23.882 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==> Parameters: 
+2021-03-27 00:13:23.906 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - <==      Total: 1
+2021-03-27 00:14:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time FROM tb_task
+2021-03-27 00:14:00.019 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-03-27 00:14:00.023 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 4
+2021-03-27 00:14:00.026 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-03-27 00:14:00.032 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 16(Long), 2021-03-16 23:00:53.0(Timestamp), 1(Long)
+2021-03-27 00:14:00.037 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-03-27 00:14:00.038 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-03-27 00:14:00.038 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 17(Long), 2021-03-16 23:02:30.0(Timestamp), 2(Long)
+2021-03-27 00:14:00.042 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-03-27 00:14:00.043 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-03-27 00:14:00.044 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 18(Long), 2021-03-25 15:09:47.0(Timestamp), 3(Long)
+2021-03-27 00:14:00.047 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-03-27 00:14:00.048 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-03-27 00:14:00.049 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 19(Long), 2021-03-16 23:02:30.0(Timestamp), 4(Long)
+2021-03-27 00:14:00.052 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-03-27 00:16:55.849 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==>  Preparing: SELECT id,job_name,job_class,cron_expression,status FROM sys_quartz
+2021-03-27 00:16:55.869 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - ==> Parameters: 
+2021-03-27 00:16:55.887 [DEBUG] com.lxw.system.mapper.QuartzMapper.selectList - <==      Total: 1
+2021-03-27 00:17:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time FROM tb_task
+2021-03-27 00:17:00.015 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-03-27 00:17:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 3
+2021-03-27 00:17:00.021 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-03-27 00:17:00.027 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 16(Long), 2021-03-16 23:00:53.0(Timestamp), 1(Long)
+2021-03-27 00:17:00.033 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-03-27 00:18:00.002 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time FROM tb_task
+2021-03-27 00:18:00.003 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-03-27 00:18:00.004 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 3
+2021-03-27 00:18:00.006 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-03-27 00:18:00.007 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 3(Integer), 16(Long), 2021-03-16 23:00:53.0(Timestamp), 1(Long)
+2021-03-27 00:18:00.018 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-03-27 00:18:00.019 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-03-27 00:18:00.020 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 17(Long), 2021-03-27 00:16:30.0(Timestamp), 2(Long)
+2021-03-27 00:18:00.023 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-03-27 00:18:00.023 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==>  Preparing: UPDATE tb_task SET level=?, lostman_id=?, start_time=? WHERE task_id=?
+2021-03-27 00:18:00.024 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - ==> Parameters: 2(Integer), 18(Long), 2021-03-27 00:16:42.0(Timestamp), 83(Long)
+2021-03-27 00:18:00.027 [DEBUG] com.lxw.system.mapper.TaskMapper.updateById - <==    Updates: 1
+2021-03-27 00:19:00.002 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==>  Preparing: SELECT task_id,level,lostman_id,start_time,end_time FROM tb_task
+2021-03-27 00:19:00.003 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - ==> Parameters: 
+2021-03-27 00:19:00.005 [DEBUG] com.lxw.system.mapper.TaskMapper.selectList - <==      Total: 3

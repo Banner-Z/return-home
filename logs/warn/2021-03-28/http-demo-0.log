@@ -1,0 +1,79 @@
+2021-03-28 09:42:43.092 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 09:42:43.222 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 09:42:43.284 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 09:51:33.757 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 09:51:33.841 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 09:51:33.902 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 09:55:13.323 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 09:55:13.432 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 09:55:13.508 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 09:56:15.555 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 09:56:15.650 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 09:56:15.705 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 10:01:16.721 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 10:01:16.829 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 10:01:16.882 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 10:26:55.118 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 10:26:55.220 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 10:26:55.292 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 10:30:47.812 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 10:30:47.914 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 10:30:47.979 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 11:14:34.246 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 11:14:34.336 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 11:14:34.406 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 11:27:22.921 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 11:27:23.040 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 11:27:23.131 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 14:27:15.081 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 14:27:15.235 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 14:27:15.319 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 14:47:24.227 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 14:47:24.403 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 14:47:24.503 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 14:57:40.248 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 14:57:40.375 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 14:57:40.446 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 15:25:00.459 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 15:25:00.710 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 15:25:00.848 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 17:29:22.867 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 17:29:23.002 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 17:29:23.064 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 17:36:03.647 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 17:36:03.735 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 17:36:03.797 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 17:44:06.417 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 17:44:06.502 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 17:44:06.572 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 18:32:11.430 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 18:32:11.527 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 18:32:11.580 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 20:46:17.792 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 20:46:17.884 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 20:46:17.936 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 20:50:59.011 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 20:50:59.114 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 20:50:59.168 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 20:52:23.123 [quartzScheduler_Worker-1] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/returnhome?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 84415
+2021-03-28 20:53:40.869 [quartzScheduler_Worker-2] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/returnhome?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 77743
+2021-03-28 20:53:40.870 [quartzScheduler_Worker-2] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/returnhome?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 162229
+2021-03-28 20:53:40.871 [quartzScheduler_Worker-2] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/returnhome?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 162233
+2021-03-28 20:53:40.872 [quartzScheduler_Worker-2] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/returnhome?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 162237
+2021-03-28 20:53:40.873 [quartzScheduler_Worker-2] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/returnhome?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 162240
+2021-03-28 20:53:40.874 [quartzScheduler_Worker-2] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - discard long time none received connection. , jdbcUrl : jdbc:mysql://localhost:3306/returnhome?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8, version : 1.2.4, lastPacketReceivedIdleMillis : 162244
+2021-03-28 21:08:22.240 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 21:08:22.365 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 21:08:22.479 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 21:22:38.791 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 21:22:38.931 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 21:22:39.083 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 21:22:46.544 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 21:22:46.709 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 21:22:46.786 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 23:39:06.725 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 23:39:06.869 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 23:39:06.931 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".
+2021-03-28 23:51:41.443 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.RoleMenu".
+2021-03-28 23:51:41.533 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.UserRole".
+2021-03-28 23:51:41.582 [main] WARN  c.b.mybatisplus.core.metadata.TableInfoHelper - Can not find table primary key in Class: "com.lxw.entity.VolunteerTask".

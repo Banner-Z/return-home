@@ -1,0 +1,173 @@
+2021-03-14 15:48:58.749 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Failed to convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq': no matching editors or conversion strategy found
+2021-03-14 15:50:08.722 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - Failed to convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq': no matching editors or conversion strategy found
+2021-03-14 15:50:34.233 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Required request body is missing: public com.lxw.response.Result com.lxw.system.controller.VolunteerController.findVolunteerList(java.lang.Integer,java.lang.Integer,com.lxw.dto.FindVolunteerInfoReq)
+2021-03-14 15:55:59.982 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Required request body is missing: public com.lxw.response.Result com.lxw.system.controller.VolunteerController.findVolunteerList(java.lang.Integer,java.lang.Integer,com.lxw.dto.FindVolunteerInfoReq)
+2021-03-14 15:56:10.355 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - Required request body is missing: public com.lxw.response.Result com.lxw.system.controller.VolunteerController.findVolunteerList(java.lang.Integer,java.lang.Integer,com.lxw.dto.FindVolunteerInfoReq)
+2021-03-14 15:56:28.907 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - Required request body is missing: public com.lxw.response.Result com.lxw.system.controller.VolunteerController.findVolunteerList(java.lang.Integer,java.lang.Integer,com.lxw.dto.FindVolunteerInfoReq)
+2021-03-14 15:59:24.100 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Failed to convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq': no matching editors or conversion strategy found
+2021-03-14 16:22:28.369 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'POST' not supported
+2021-03-14 16:22:53.254 [http-nio-8081-exec-10] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'POST' not supported
+2021-03-14 16:23:54.108 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-14 16:24:56.331 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
+2021-03-14 16:26:56.599 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'GET' not supported
+2021-03-14 16:27:54.833 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'GET' not supported
+2021-03-14 16:28:07.784 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'GET' not supported
+2021-03-14 16:28:52.102 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'GET' not supported
+2021-03-14 16:29:47.579 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'GET' not supported
+2021-03-14 16:35:05.588 [http-nio-8081-exec-1] ERROR o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+io.jsonwebtoken.ExpiredJwtException: JWT expired at 2021-03-13T19:44:27Z. Current time: 2021-03-14T16:35:05Z, a difference of 75038504 milliseconds.  Allowed clock skew: 0 milliseconds.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:385)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:481)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:541)
+	at com.lxw.utils.JwtTokenUtils.getTokenBody(JwtTokenUtils.java:90)
+	at com.lxw.utils.JwtTokenUtils.getUsername(JwtTokenUtils.java:63)
+	at com.lxw.fliter.JwtAuthorizationFilter.getAuthentication(JwtAuthorizationFilter.java:44)
+	at com.lxw.fliter.JwtAuthorizationFilter.doFilterInternal(JwtAuthorizationFilter.java:37)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:218)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:212)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:218)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:212)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:887)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1684)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-03-14 16:35:53.853 [http-nio-8081-exec-7] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 16:36:22.075 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 16:37:15.671 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 16:44:43.044 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Required VolunteerReq parameter 'findVolunteerInfoReq' is not present
+2021-03-14 16:45:08.100 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Required VolunteerReq parameter 'findVolunteerInfoReq' is not present
+2021-03-14 16:45:56.599 [http-nio-8081-exec-9] ERROR com.lxw.handler.GlobalExceptionHandler - Failed to convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq': no matching editors or conversion strategy found
+2021-03-14 16:46:28.638 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 16:46:49.400 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 16:48:09.398 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Required request body is missing: public com.lxw.response.Result com.lxw.system.controller.VolunteerController.findVolunteerList(com.lxw.dto.FindVolunteerInfoReq)
+2021-03-14 16:48:50.681 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - Required request body is missing: public com.lxw.response.Result com.lxw.system.controller.VolunteerController.findVolunteerList(com.lxw.dto.FindVolunteerInfoReq)
+2021-03-14 16:48:52.452 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - Required request body is missing: public com.lxw.response.Result com.lxw.system.controller.VolunteerController.findVolunteerList(com.lxw.dto.FindVolunteerInfoReq)
+2021-03-14 16:50:02.829 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 16:51:04.017 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - Failed to convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.lxw.dto.FindVolunteerInfoReq': no matching editors or conversion strategy found
+2021-03-14 16:54:53.934 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - Request method 'GET' not supported
+2021-03-14 16:54:56.395 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 16:59:26.452 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 17:00:24.640 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 17:01:22.541 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 17:01:27.448 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - null
+2021-03-14 21:27:00.016 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [2021-03-14 21:23:06]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2021-03-14 21:23:06'; nested exception is java.lang.IllegalArgumentException]
+2021-03-14 21:28:55.135 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [2021-03-14 21:23:06]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@com.fasterxml.jackson.annotation.JsonFormat java.util.Date] for value '2021-03-14 21:23:06'; nested exception is java.lang.IllegalArgumentException]
+2021-03-14 21:29:51.335 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [1533547522877]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@com.fasterxml.jackson.annotation.JsonFormat java.util.Date] for value '1533547522877'; nested exception is java.lang.IllegalArgumentException]
+2021-03-14 21:30:38.993 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [1533547522877]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@com.fasterxml.jackson.annotation.JsonFormat java.util.Date] for value '1533547522877'; nested exception is java.lang.IllegalArgumentException]
+2021-03-14 21:33:48.807 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [1605024000000]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@com.fasterxml.jackson.annotation.JsonFormat java.util.Date] for value '1605024000000'; nested exception is java.lang.IllegalArgumentException]
+2021-03-14 21:36:05.060 [http-nio-8081-exec-8] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [1605024000000]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@com.fasterxml.jackson.annotation.JsonFormat java.util.Date] for value '1605024000000'; nested exception is java.lang.IllegalArgumentException]
+2021-03-14 21:38:44.886 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [1605024000000]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '1605024000000'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1605024000000]]
+2021-03-14 21:38:51.732 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [1605024000000]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '1605024000000'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1605024000000]]
+2021-03-14 21:47:34.634 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [1605024000000]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '1605024000000'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1605024000000]]
+2021-03-14 21:48:40.156 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'lostman_sex' doesn't have a default value
+### The error may exist in com/lxw/system/mapper/LostmanInfoMapper.java (best guess)
+### The error may involve com.lxw.system.mapper.LostmanInfoMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO tb_lostman_info  ( lostman_name,     lostman_pos, lostman_pos_longitude, lostman_pos_latitude, family_phoneNumber, family_name )  VALUES  ( ?,     ?, ?, ?, ?, ? )
+### Cause: java.sql.SQLException: Field 'lostman_sex' doesn't have a default value
+; Field 'lostman_sex' doesn't have a default value; nested exception is java.sql.SQLException: Field 'lostman_sex' doesn't have a default value
+2021-03-14 21:51:26.303 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'lostman_sex' doesn't have a default value
+### The error may exist in com/lxw/system/mapper/LostmanInfoMapper.java (best guess)
+### The error may involve com.lxw.system.mapper.LostmanInfoMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO tb_lostman_info  ( lostman_name,     lostman_pos, lostman_pos_longitude, lostman_pos_latitude, family_phoneNumber, family_name )  VALUES  ( ?,     ?, ?, ?, ?, ? )
+### Cause: java.sql.SQLException: Field 'lostman_sex' doesn't have a default value
+; Field 'lostman_sex' doesn't have a default value; nested exception is java.sql.SQLException: Field 'lostman_sex' doesn't have a default value
+2021-03-14 21:52:29.945 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'lost_time' doesn't have a default value
+### The error may exist in com/lxw/system/mapper/LostmanInfoMapper.java (best guess)
+### The error may involve com.lxw.system.mapper.LostmanInfoMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO tb_lostman_info  ( lostman_name,     lostman_pos, lostman_pos_longitude, lostman_pos_latitude, family_phoneNumber, family_name )  VALUES  ( ?,     ?, ?, ?, ?, ? )
+### Cause: java.sql.SQLException: Field 'lost_time' doesn't have a default value
+; Field 'lost_time' doesn't have a default value; nested exception is java.sql.SQLException: Field 'lost_time' doesn't have a default value
+2021-03-14 21:56:43.276 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [1605024000000]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '1605024000000'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1605024000000]]
+2021-03-14 21:58:06.722 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value ["2020/11/11 00:00:00"]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '"2020/11/11 00:00:00"'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value ["2020/11/11 00:00:00"]]
+2021-03-14 21:58:20.053 [http-nio-8081-exec-5] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'reportLostmanReq' on field 'lostTime': rejected value [2020/11/11 00:00:00]; codes [typeMismatch.reportLostmanReq.lostTime,typeMismatch.lostTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reportLostmanReq.lostTime,lostTime]; arguments []; default message [lostTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'lostTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '2020/11/11 00:00:00'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [2020/11/11 00:00:00]]
+2021-03-14 22:00:28.504 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'lost_time' doesn't have a default value
+### The error may exist in com/lxw/system/mapper/LostmanInfoMapper.java (best guess)
+### The error may involve com.lxw.system.mapper.LostmanInfoMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO tb_lostman_info  ( lostman_name,     lostman_pos, lostman_pos_longitude, lostman_pos_latitude, family_phoneNumber, family_name )  VALUES  ( ?,     ?, ?, ?, ?, ? )
+### Cause: java.sql.SQLException: Field 'lost_time' doesn't have a default value
+; Field 'lost_time' doesn't have a default value; nested exception is java.sql.SQLException: Field 'lost_time' doesn't have a default value
+2021-03-14 22:05:18.760 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - Unparseable date: "1605024000000"
+2021-03-14 22:06:55.066 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - Unparseable date: "2020/11/11 00:00:00"
+2021-03-14 22:08:03.784 [http-nio-8081-exec-6] ERROR com.lxw.handler.GlobalExceptionHandler - Unparseable date: "1605024000000"
+2021-03-14 23:18:58.107 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'perfectLostmanReq' on field 'lostmanIDCard': rejected value [888888888888]; codes [typeMismatch.perfectLostmanReq.lostmanIDCard,typeMismatch.lostmanIDCard,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [perfectLostmanReq.lostmanIDCard,lostmanIDCard]; arguments []; default message [lostmanIDCard]]; default message [Failed to convert value of type 'java.lang.String[]' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "888888888888"]
+2021-03-14 23:19:56.730 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'perfectLostmanReq' on field 'lostmanIDCard': rejected value [3310212008150018]; codes [typeMismatch.perfectLostmanReq.lostmanIDCard,typeMismatch.lostmanIDCard,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [perfectLostmanReq.lostmanIDCard,lostmanIDCard]; arguments []; default message [lostmanIDCard]]; default message [Failed to convert value of type 'java.lang.String[]' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "3310212008150018"]
+2021-03-14 23:25:00.167 [http-nio-8081-exec-2] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'perfectLostmanReq' on field 'lostmanIDCard': rejected value [3310212008150018]; codes [typeMismatch.perfectLostmanReq.lostmanIDCard,typeMismatch.lostmanIDCard,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [perfectLostmanReq.lostmanIDCard,lostmanIDCard]; arguments []; default message [lostmanIDCard]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'lostmanIDCard'; nested exception is java.lang.NumberFormatException: For input string: "3310212008150018"]
+2021-03-14 23:25:54.236 [http-nio-8081-exec-3] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'perfectLostmanReq' on field 'lostmanIDCard': rejected value [3310212008150018]; codes [typeMismatch.perfectLostmanReq.lostmanIDCard,typeMismatch.lostmanIDCard,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [perfectLostmanReq.lostmanIDCard,lostmanIDCard]; arguments []; default message [lostmanIDCard]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'lostmanIDCard'; nested exception is java.lang.NumberFormatException: For input string: "3310212008150018"]
+2021-03-14 23:27:34.647 [http-nio-8081-exec-1] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'perfectLostmanReq' on field 'lostmanIDCard': rejected value [3310212008150018]; codes [typeMismatch.perfectLostmanReq.lostmanIDCard,typeMismatch.lostmanIDCard,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [perfectLostmanReq.lostmanIDCard,lostmanIDCard]; arguments []; default message [lostmanIDCard]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'lostmanIDCard'; nested exception is java.lang.NumberFormatException: For input string: "3310212008150018"]
+2021-03-14 23:30:34.472 [http-nio-8081-exec-4] ERROR com.lxw.handler.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'perfectLostmanReq' on field 'lostmanIDCard': rejected value [33102120018]; codes [typeMismatch.perfectLostmanReq.lostmanIDCard,typeMismatch.lostmanIDCard,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [perfectLostmanReq.lostmanIDCard,lostmanIDCard]; arguments []; default message [lostmanIDCard]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'lostmanIDCard'; nested exception is java.lang.NumberFormatException: For input string: "33102120018"]
