@@ -23,7 +23,7 @@ pipeline {
                 // 输出java版本
                 sh 'java -version'
                 // 调用maven 构建jar包
-                sh 'mvn clean package'
+                sh 'mvn package'
                 echo "Success building."
                 // 收集构建产物，这一步成功，我们就可以在平台上看到构建产物
                 // archiveArtifacts artifacts: '**/target/*.jar', fingerprint: true // 收集构建产物
