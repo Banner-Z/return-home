@@ -1,8 +1,9 @@
 pipeline {
-    agent {
-        label "java-8"
+    agent any
+    // agent {
+    //     label "java-8"
         // label "python-3.5"
-    }
+    // }
     stages  {
         // 检出仓库
         stage("Checkout") {
