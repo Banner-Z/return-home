@@ -5,18 +5,17 @@ pipeline {
         // label "python-3.5"
     // }
     stages  {
-        // 检出仓库
-        stage("Checkout") {
-            steps {
+        // stage("Checkout") {
+        //     steps {
                 // 这里sh调用ci-init 初始化
-                sh 'ci-init'
+        //         sh 'ci-init'
                 // 这里检出仓库，默认检出分支为环境变量中的GIT_BUILD_REF
-                checkout(
-                  [$class: 'GitSCM', branches: [[name: env.GIT_BUILD_REF]], 
-                  userRemoteConfigs: [[url: env.GIT_REPO_URL]]]
-                )
-            }
-        }
+        //         checkout(
+        //           [$class: 'GitSCM', branches: [[name: env.GIT_BUILD_REF]], 
+        //           userRemoteConfigs: [[url: env.GIT_REPO_URL]]]
+        //         )
+        //     }
+        // }
         // 构建jar包
         stage("BuildIt") {
             steps {
